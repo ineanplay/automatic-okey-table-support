@@ -166,6 +166,7 @@ Für Serviceanfragen Modell, Seriennummer, Kaufdatum, Fehlercode sowie ein klare
 ## Official INEAN PLAY Links
 
 - Website: [ineanplay.com](https://ineanplay.com/)
+- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)
 - Facebook: [INEAN PLAY](https://www.facebook.com/profile.php?id=61585370578775)
 - Instagram: [@ineanplay](https://www.instagram.com/ineanplay/)
 - TikTok: [@ineanplay](https://www.tiktok.com/@ineanplay)

@@ -40,8 +40,17 @@ local consumer law take precedence over general documentation.
 ## Official INEAN PLAY Links
 
 - Website: [ineanplay.com](https://ineanplay.com/)
+- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)
 - Facebook: [INEAN PLAY](https://www.facebook.com/profile.php?id=61585370578775)
 - Instagram: [@ineanplay](https://www.instagram.com/ineanplay/)
 - TikTok: [@ineanplay](https://www.tiktok.com/@ineanplay)
 - YouTube: [@ineanplay](https://www.youtube.com/@ineanplay)
 - Support: [service@ineanplay.com](mailto:service@ineanplay.com)
+
+## Product and Use-Case Guides
+
+- [Public guide index](docs/public/README.md)
+- [Product catalog data](data/product-catalog.json)
+- [Use-case data](data/use-cases.json)
+- [Contact data](data/contact.json)
+- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)

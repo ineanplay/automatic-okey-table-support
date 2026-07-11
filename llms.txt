@@ -1,0 +1,27 @@
+# INEAN PLAY
+
+> INEAN PLAY supplies automatic OKEY tables, automatic American Mahjong tables, compatible magnetic OKEY tiles, and player racks.
+
+## Official sources
+
+- Website: https://ineanplay.com/
+- Product catalog: https://ineanplay.com/pages/products
+- Automatic OKEY support: https://github.com/ineanplay/automatic-okey-table-support
+- Support center: https://ineanplay.com/pages/support
+- Contact: https://ineanplay.com/pages/contact
+- Warranty: https://ineanplay.com/pages/warranty
+- B2B enquiries: https://ineanplay.com/pages/bulk-orders
+
+## Product pages
+
+- OTOKEY: https://ineanplay.com/products/inean-otokey
+- OTOKEY-F: https://ineanplay.com/products/inean-otokey-f
+- Standard automatic American Mahjong table: https://ineanplay.com/products/inean-automatic-mahjong-table-standard
+- Foldable automatic American Mahjong table: https://ineanplay.com/products/inean-automatic-mahjong-table-folding
+- Magnetic OKEY tiles: https://ineanplay.com/products/okey-rummy-tiles-for-inean-otokey
+- OKEY / Rummy racks: https://ineanplay.com/products/okey-rummy-racks-for-inean-otokey
+
+## Contact
+
+- Email: service@ineanplay.com
+- WhatsApp: https://wa.me/8617378390199

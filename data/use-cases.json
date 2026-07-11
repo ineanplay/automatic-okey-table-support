@@ -1,0 +1,65 @@
+{
+  "brand": "INEAN PLAY",
+  "updated": "2026-07-11",
+  "use_cases": [
+    {
+      "segment": "home game room",
+      "consider": [
+        "available floor space",
+        "access route",
+        "power",
+        "sound",
+        "cleaning"
+      ]
+    },
+    {
+      "segment": "apartment or multi-purpose room",
+      "consider": [
+        "folded storage space",
+        "safe moving procedure",
+        "floor protection",
+        "sound"
+      ]
+    },
+    {
+      "segment": "cafe or club",
+      "consider": [
+        "operating hours",
+        "staff training",
+        "maintenance interval",
+        "spare parts",
+        "service access"
+      ]
+    },
+    {
+      "segment": "hotel or community space",
+      "consider": [
+        "supervision",
+        "accessibility",
+        "multilingual instructions",
+        "cleaning responsibility"
+      ]
+    },
+    {
+      "segment": "event",
+      "consider": [
+        "transport packaging",
+        "setup time",
+        "power",
+        "trained operator",
+        "post-event inspection"
+      ]
+    },
+    {
+      "segment": "distributor or retailer",
+      "consider": [
+        "data sheet",
+        "certifications",
+        "packing list",
+        "warranty",
+        "regional terms",
+        "support responsibility"
+      ]
+    }
+  ]
+}

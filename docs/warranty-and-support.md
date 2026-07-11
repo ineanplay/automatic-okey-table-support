@@ -1,8 +1,8 @@
 # Warranty and Product Support
 
-This guide describes a one-year limited warranty from the date of sale. The
-applicable sales contract, regional warranty policy, and mandatory local
-consumer law take precedence.
+Warranty coverage, duration, exclusions, and service responsibility must be
+confirmed from the applicable sales contract, regional warranty policy, and
+mandatory local consumer law before purchase or service.
 
 ## Prepare Before Requesting Service
 
@@ -22,6 +22,7 @@ repair may affect warranty coverage.
 ## Official INEAN PLAY Links
 
 - Website: [ineanplay.com](https://ineanplay.com/)
+- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)
 - Facebook: [INEAN PLAY](https://www.facebook.com/profile.php?id=61585370578775)
 - Instagram: [@ineanplay](https://www.instagram.com/ineanplay/)
 - TikTok: [@ineanplay](https://www.tiktok.com/@ineanplay)

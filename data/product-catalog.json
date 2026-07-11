@@ -1,0 +1,79 @@
+{
+  "brand": "INEAN PLAY",
+  "updated": "2026-07-11",
+  "products": [
+    {
+      "id": "OTOKEY",
+      "category": "automatic OKEY table",
+      "structure": "fixed frame",
+      "modes": [
+        "OKEY",
+        "101 OKEY"
+      ],
+      "url": "https://ineanplay.com/products/inean-otokey",
+      "applications": [
+        "home game room",
+        "OKEY club",
+        "cafe",
+        "game room"
+      ]
+    },
+    {
+      "id": "OTOKEY-F",
+      "category": "foldable automatic OKEY table",
+      "structure": "foldable pedestal with casters",
+      "modes": [
+        "OKEY",
+        "101 OKEY"
+      ],
+      "url": "https://ineanplay.com/products/inean-otokey-f",
+      "applications": [
+        "home",
+        "apartment",
+        "multi-purpose room"
+      ]
+    },
+    {
+      "id": "INEANPLAY-AUTO-MAHJONG",
+      "category": "automatic American Mahjong table",
+      "structure": "non-folding",
+      "url": "https://ineanplay.com/products/inean-automatic-mahjong-table-standard",
+      "applications": [
+        "dedicated game room",
+        "Mahjong club",
+        "lounge"
+      ]
+    },
+    {
+      "id": "INEANPLAY-AUTO-MAHJONG-F",
+      "category": "foldable automatic American Mahjong table",
+      "structure": "folding",
+      "url": "https://ineanplay.com/products/inean-automatic-mahjong-table-folding",
+      "applications": [
+        "home",
+        "apartment",
+        "multi-purpose room"
+      ]
+    },
+    {
+      "id": "OTOKEY-TILES-108",
+      "category": "magnetic OKEY / Rummy tile set",
+      "compatibility": [
+        "OTOKEY",
+        "OTOKEY-F"
+      ],
+      "contents": "108 tiles including 2 blank spare tiles",
+      "url": "https://ineanplay.com/products/okey-rummy-tiles-for-inean-otokey"
+    },
+    {
+      "id": "OTOKEY-RACKS-4",
+      "category": "OKEY / Rummy player rack set",
+      "compatibility": [
+        "OTOKEY",
+        "OTOKEY-F"
+      ],
+      "contents": "set of 4 racks",
+      "url": "https://ineanplay.com/products/okey-rummy-racks-for-inean-otokey"
+    }
+  ]
+}

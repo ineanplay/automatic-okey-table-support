@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "INEAN PLAY",
+  "url": "https://ineanplay.com/",
+  "email": "service@ineanplay.com",
+  "sameAs": [
+    "https://www.facebook.com/profile.php?id=61585370578775",
+    "https://www.instagram.com/ineanplay/",
+    "https://www.tiktok.com/@ineanplay",
+    "https://www.youtube.com/@ineanplay"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "telephone": "+86-173-7839-0199",
+    "email": "service@ineanplay.com",
+    "url": "https://wa.me/8617378390199"
+  }
+}
