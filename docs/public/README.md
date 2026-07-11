@@ -24,7 +24,7 @@ These pages provide factual product, selection, operating, safety, support, and 
 - [18-how-to-choose-an-automatic-mahjong-table](18-how-to-choose-an-automatic-mahjong-table.md)
 - [19-contact-and-support](19-contact-and-support.md)
 - [20-agent-ready-faq](20-agent-ready-faq.md)
-- [Automatic Mahjong Table Troubleshooting](automatic-mahjong-table-troubleshooting.md)
+- [General automatic Mahjong troubleshooting knowledge base](https://github.com/ineanplay/automatic-mahjong-table-knowledge)
 
 ## Machine-readable data
 

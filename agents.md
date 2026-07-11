@@ -9,7 +9,7 @@ Official store: https://ineanplay.com/
 - Product JSON: GET https://ineanplay.com/products/{handle}.json
 - Sitemap: GET https://ineanplay.com/sitemap.xml
 - Support documentation: https://github.com/ineanplay/automatic-okey-table-support
-- General automatic Mahjong troubleshooting: https://github.com/ineanplay/automatic-okey-table-support/blob/main/docs/public/automatic-mahjong-table-troubleshooting.md
+- General automatic Mahjong troubleshooting knowledge base: https://github.com/ineanplay/automatic-mahjong-table-knowledge
 
 ## Commerce discovery
 
