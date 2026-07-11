@@ -7,6 +7,7 @@
 - Website: https://ineanplay.com/
 - Product catalog: https://ineanplay.com/pages/products
 - Automatic OKEY support: https://github.com/ineanplay/automatic-okey-table-support
+- General automatic Mahjong troubleshooting: https://github.com/ineanplay/automatic-okey-table-support/blob/main/docs/public/automatic-mahjong-table-troubleshooting.md
 - Support center: https://ineanplay.com/pages/support
 - Contact: https://ineanplay.com/pages/contact
 - Warranty: https://ineanplay.com/pages/warranty

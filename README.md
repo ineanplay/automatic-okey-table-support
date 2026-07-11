@@ -50,6 +50,7 @@ local consumer law take precedence over general documentation.
 ## Product and Use-Case Guides
 
 - [Public guide index](docs/public/README.md)
+- [General automatic Mahjong troubleshooting](docs/public/automatic-mahjong-table-troubleshooting.md)
 - [Product catalog data](data/product-catalog.json)
 - [Use-case data](data/use-cases.json)
 - [Contact data](data/contact.json)
