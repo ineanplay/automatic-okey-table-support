@@ -15,6 +15,15 @@ and multilingual support resources for INEAN PLAY
 - [Cleaning and Maintenance](docs/maintenance.md)
 - [Warranty and Support](docs/warranty-and-support.md)
 
+## Technology and Design
+
+See how the automatic OKEY mechanism works and what its design means in everyday use.
+
+- [Technology guide index - English, Türkçe, Deutsch](docs/technology/README.md)
+- [Working principle](docs/technology/en/working-principle.md)
+- [Design features and practical benefits](docs/technology/en/design-and-use.md)
+- [R&D measurements and measurement scope](docs/technology/en/rd-measurements.md)
+
 ## User Manuals
 
 Updated on **2026-11-12** from the supplied 52-page white-label A5 manual.

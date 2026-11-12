@@ -26,6 +26,13 @@ These pages provide factual product, selection, operating, safety, support, and 
 - [20-agent-ready-faq](20-agent-ready-faq.md)
 - [General automatic Mahjong troubleshooting knowledge base](https://github.com/ineanplay/automatic-mahjong-table-knowledge)
 
+## Technology and design
+
+- [Technology guides in English, Turkish and German](../technology/README.md)
+- [How the automatic OKEY mechanism works](../technology/en/working-principle.md)
+- [Design features and everyday use](../technology/en/design-and-use.md)
+- [R&D measurements and their scope](../technology/en/rd-measurements.md)
+
 ## Machine-readable data
 
 - [llms.txt](../../llms.txt)

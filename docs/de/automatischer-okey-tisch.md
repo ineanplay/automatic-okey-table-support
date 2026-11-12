@@ -14,6 +14,12 @@ OKEY- und 101-Modus, Bedienung, Fehlercodes, Reinigung und Wartung.
 
 [Deutsches Benutzerhandbuch](../../manuals/text/manual-de.md)
 
+## Mechanik und Konstruktion
+
+- [So funktioniert die automatische OKEY-Mechanik](../technology/de/working-principle.md)
+- [Konstruktionsmerkmale und tägliche Nutzung](../technology/de/design-and-use.md)
+- [F&E-Messwerte und ihr Geltungsbereich](../technology/de/rd-measurements.md)
+
 ---
 
 ## Offizielle INEAN PLAY Links

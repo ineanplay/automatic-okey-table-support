@@ -22,6 +22,15 @@
 
 These manuals were updated from the supplied white-label A5 source on 2026-11-12. The Azerbaijani July 2026 edition is superseded and has not been updated.
 
+## Automatic OKEY technology
+
+- Multilingual index: https://github.com/ineanplay/automatic-okey-table-support/blob/main/docs/technology/README.md
+- Working principle: https://github.com/ineanplay/automatic-okey-table-support/blob/main/docs/technology/en/working-principle.md
+- Design and use: https://github.com/ineanplay/automatic-okey-table-support/blob/main/docs/technology/en/design-and-use.md
+- R&D measurements: https://github.com/ineanplay/automatic-okey-table-support/blob/main/docs/technology/en/rd-measurements.md
+
+Each guide has English, Turkish and German editions. Technical figures apply to the named component or action and require confirmation for the selected model and test conditions. Operating procedures remain in the user manuals.
+
 ## Product pages
 
 - OTOKEY: https://ineanplay.com/products/inean-otokey

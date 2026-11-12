@@ -15,6 +15,12 @@ arıza kodları, temizlik ve bakım için resmi destek bilgilerini içerir.
 
 [Türkçe kullanım kılavuzu](../../manuals/text/manual-tr.md)
 
+## Mekanizma ve tasarım
+
+- [Otomatik OKEY mekanizmasının çalışma prensibi](../technology/tr/working-principle.md)
+- [Tasarım özellikleri ve günlük kullanım](../technology/tr/design-and-use.md)
+- [Ar-Ge ölçümleri ve kapsamları](../technology/tr/rd-measurements.md)
+
 ---
 
 ## Resmi INEAN PLAY Bağlantıları
