@@ -1,15 +1,14 @@
 # Fault Codes and Technical Support
 
-OTOKEY support documentation identifies fault-code groups for the center-panel lift, shuffle panel, conveyors, sorters, approach bridges, and tumblers. The corresponding position indicator helps identify the affected side.
+The current manual identifies fault-code areas for the centre-panel lift (00), main turntable (01), transport units (21-24), stacking and pushing units (31-34), tile-lift units (41-44), and rotary-base units (51-54). For groups 21-54, the last digit identifies the side: 1 East, 2 South, 3 West, 4 North. The corresponding position indicator flashes. A code identifies an area to inspect; it does not by itself prove that a component has failed. See the [complete fault-code guide](../fault-codes.md).
 
 When a code appears:
 
 1. Stop loading tiles.
 2. Record the code and flashing position.
 3. Disconnect power.
-4. Remove only visible foreign objects that are reachable without disassembly.
-5. Perform one reset after reconnecting power.
-6. If the code returns, stop using the table and contact support.
+4. Have qualified personnel inspect the fault; do not dismantle or repair the machine yourself.
+5. If a fault repeats after a restart, stop operation and contact support.
 
 Provide the model, serial number, purchase date, code, affected side, and a clear photo or video.
 

@@ -1,0 +1,24 @@
+{
+  "updated": "2026-11-12",
+  "source_filename": "Automatic_OKEY_Table_User_Manual_White_Label_A5_EN-TR-DE_Optimized_1.pdf",
+  "source_sha256": "6797208ca6465b33db1f1aaed18e41bc0f64f52b1b81c86e9c6df29ac2b9d8b2",
+  "canonical_pdf": "Automatic_OKEY_Table_User_Manual_EN-TR-DE.pdf",
+  "source_pages": 52,
+  "language_pages": {
+    "en": [
+      2,
+      18
+    ],
+    "tr": [
+      19,
+      35
+    ],
+    "de": [
+      36,
+      52
+    ]
+  },
+  "pdf_policy": "Language PDFs reproduce source pages without reflow; original printed page numbers are retained.",
+  "text_policy": "Source wording transcribed into Markdown; illustrations extracted from source. Repository support links are separate from manual content.",
+  "az_status": "Legacy July 2026 translation; not present in the supplied source and not updated."
+}

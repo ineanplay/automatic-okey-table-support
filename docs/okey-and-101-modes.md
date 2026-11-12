@@ -1,18 +1,13 @@
 # OKEY and 101 Mode Selection
 
-Supported INEAN PLAY OTOKEY models can provide normal OKEY and 101 OKEY modes.
-Do not assume every controller or tile set supports both modes.
+Based on the [current user manual](../manuals/text/manual-en.md), updated from the supplied EN / TR / DE manual on 2026-11-12. Confirm the installed model and product rating label before use.
 
-## Switching Mode
+## OKEY / 101 MODE
 
-1. Put the table in the reset state.
-2. Hold the Mode button for approximately five seconds.
-3. Wait for the beep and read the mode on the status display.
-4. On supported models, hold the Mode button again to switch between `OKEY` and `101`.
-5. Confirm the displayed mode before loading tiles.
-
-If the displayed mode does not change, stop and contact support with the model
-and controller-panel photo. Do not attempt to reprogram the controller.
+1. Place the machine in the reset state.
+2. Press and hold the Mode button for 5 seconds.
+3. A beep sounds and the display changes between OKEY and 101.
+4. Repeat the 5-second press to switch back.
 
 ---
 

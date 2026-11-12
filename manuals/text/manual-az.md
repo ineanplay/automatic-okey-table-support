@@ -1,5 +1,9 @@
 # INEAN PLAY OTOKEY - Avtomatik Okey Masası - İstifadəçi Təlimatı
 
+> **Əvvəlki nəşr (iyul 2026).** Bu mətn 2026-11-12 tarixində təqdim edilmiş yeni mənbəyə uyğun yenilənməyib. İstifadə, diaqnostika, texniki qulluq və zəmanət məlumatları üçün cari [Türkçe](manual-tr.md), [English](manual-en.md) və ya [Deutsch](manual-de.md) təlimatından istifadə edin.
+>
+> **Superseded edition (July 2026).** The supplied replacement manual contains English, Turkish and German only. This Azerbaijani text has not been updated and must not be used as the current operating or warranty reference.
+
 Quraşdırma, istifadə, təmizləmə və ya servis işindən əvvəl bu təlimatı oxuyun.
 
 _Nəşr - iyul 2026_

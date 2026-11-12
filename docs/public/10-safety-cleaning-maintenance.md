@@ -2,9 +2,9 @@
 
 Use the table only with a grounded outlet that matches the product nameplate. Disconnect power before cleaning or removing visible foreign objects. Use only accessories and magnetic tiles approved for the model.
 
-Clean accessible surfaces with a dry soft cloth or soft brush. Apply only an approved residue-free cleaner to a cloth, never directly into the table. Internal cleaning, lubrication, adjustment, and disassembly require trained service personnel.
+Clean accessible surfaces with a dry soft cloth or soft brush. Apply only an manufacturer-approved, non-corrosive surface cleaner to a cloth, never directly into the table. Internal cleaning, lubrication, adjustment, and disassembly require trained service personnel.
 
-Maintenance frequency depends on operating hours, environment, repeated fault codes, unusual noise, and the applicable model instructions.
+Inspect regularly after installation and during the first three months. Completely clean the frame, surface fabric and shuffle area every three months, more often in dusty or high-use locations. Arrange comprehensive inspection and maintenance at least three times per year, appropriate to usage and local conditions. See the [current maintenance instructions](../maintenance.md).
 
 ## Official contact
 

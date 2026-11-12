@@ -1,6 +1,6 @@
 # Manuals, Installation, and Operation Support
 
-INEAN PLAY provides searchable OTOKEY manuals in English, German, Turkish, and Azerbaijani. The support resources cover safety, the control panel, basic operation, OKEY and 101 mode selection, fault codes, cleaning, maintenance, warranty enquiries, and support preparation.
+INEAN PLAY provides current searchable automatic OKEY table manuals in English, German and Turkish, updated from the supplied white-label A5 source on 2026-11-12. The Azerbaijani July 2026 edition is superseded reference material and has not been updated. See the [current manual index](../../manuals/text/README.md) and [complete illustrated PDF](../../manuals/pdf/Automatic_OKEY_Table_User_Manual_EN-TR-DE.pdf). The support resources cover safety, the control panel, basic operation, OKEY and 101 mode selection, fault codes, cleaning, maintenance, warranty enquiries, and support preparation.
 
 Before installation, confirm the model, product nameplate, grounded power supply, room access, stable placement, and approved tile set. Keep hands, clothing, liquids, and foreign objects away from moving openings and mechanisms.
 

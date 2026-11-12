@@ -1,174 +1,242 @@
-# INEAN PLAY OTOKEY - Automatischer Okey-Tisch - Benutzerhandbuch
+# Automatischer OKEY-Tisch - Bedienungsanleitung
 
-Lesen Sie dieses Handbuch vor Installation, Betrieb, Reinigung oder Wartung.
+Lesen Sie diese Anleitung vor Aufstellung, Bedienung, Reinigung oder Wartung vollständig durch.
 
-_Ausgabe - Juli 2026_
+_Am 2026-11-12 anhand der bereitgestellten A5-White-Label-Anleitung aktualisiert, deutsche Seiten 36-52. Der Text folgt der Quelle; das vollständige bebilderte Layout befindet sich im Original-PDF._
 
-## 1. Wichtige Sicherheitshinweise
+[Vollständige bebilderte Anleitung (EN / TR / DE)](../pdf/Automatic_OKEY_Table_User_Manual_EN-TR-DE.pdf) | [Deutsches PDF](../pdf/INEAN_PLAY_OTOKEY_User_Manual_DE.pdf)
 
-Verwenden Sie den Tisch nur wie in diesem Handbuch beschrieben. Bewahren Sie das Handbuch beim Produkt auf und geben Sie es an spätere Betreiber weiter.
+## Inhalt
 
-- Verwenden Sie nur für das jeweilige Modell freigegebenes Zubehör und magnetische Okey-Steine. Ungeeignete Steine können den Mechanismus blockieren oder beschädigen.
-- Tisch nicht zerlegen, verändern oder reparieren, sofern Sie kein autorisierter Servicetechniker sind.
-- Nur an eine ordnungsgemäß geerdete Steckdose anschließen, deren Spannung und Frequenz dem Typenschild entsprechen.
-- Bei 220-V-Modellen ist außerhalb von 175-235 V ein zugelassener Spannungsstabilisator erforderlich. Typenschild und örtliche Vorschriften haben Vorrang.
-- Beim Transport aufrecht und stabil halten. Nicht umdrehen, fallen lassen oder mit Steinen im Mechanismus bewegen.
-- Vor der Reinigung Netzstecker ziehen. Kein Wasser oder Reinigungsmittel in Öffnungen, Motoren, Sensoren oder Elektronik gelangen lassen.
-- Münzen, Feuerzeuge, Zigarettenreste und andere Kleinteile vor dem Betrieb entfernen. Bei Fremdkörpern sofort stoppen.
-- Scharfe Gegenstände von Spielfläche und Steinen fernhalten.
-- Vor direkter Sonne, großer Hitze und hoher Luftfeuchtigkeit schützen.
-- Bei beschädigtem Netzkabel Betrieb einstellen und INEAN PLAY oder einen autorisierten Service kontaktieren.
+- [01 SICHERHEIT UND VERWENDUNG](#section-01)
+- [02 PRODUKTÜBERSICHT](#section-02)
+- [03 KOMPONENTEN DER HAUPTEINHEIT](#section-03)
+- [04 BEDIENFELD](#section-04)
+- [05 EIN- / AUSSCHALTEN](#section-05)
+- [06 GRUNDBEDIENUNG](#section-06)
+- [07 OKEY- / 101-MODUS](#section-07)
+- [08 SERVICEDIAGNOSE](#section-08)
+- [09 FEHLERCODES](#section-09)
+- [10 WARTUNGSPLAN](#section-10)
+- [11 OBERFLÄCHEN- UND SPIELSTEINPFLEGE](#section-11)
+- [12 INNENREINIGUNG](#section-12)
+- [13 GARANTIE- UND SERVICEBEDINGUNGEN](#section-13)
 
-### Sicherheits- und Rechtshinweis
+<a id="section-01"></a>
 
-Nichtbeachtung kann Verletzungen oder Sachschäden verursachen und den Garantieanspruch im gesetzlich zulässigen Umfang beeinflussen. Gesetzliche Verbraucherrechte bleiben unberührt.
+## 01 SICHERHEIT UND VERWENDUNG
 
-## 2. Produktübersicht
+Für einen sicheren, zuverlässigen Betrieb sind die folgenden Hinweise und die Angaben auf dem Typenschild zu beachten.
 
-Der automatische Okey-Tisch besteht aus Haupteinheit, Außenrahmen und Untergestell beziehungsweise Beinen. Aussehen und Untergestell können je nach Modell abweichen. Die Haupteinheit verbindet elektronische Steuerung mit Systemen zum Sammeln, Mischen, Sortieren und Ausgeben der Steine.
+- Verwenden Sie nur für dieses Modell geeignete, freigegebene Spielsteine, Zubehör- und Ersatzteile.
+- Gerät nicht selbst zerlegen, verändern oder reparieren. Arbeiten im Inneren dürfen nur von qualifiziertem Servicepersonal ausgeführt werden.
+- Nur an eine geerdete Steckdose anschließen, die den örtlichen Vorschriften sowie Spannung und Frequenz auf dem Typenschild entspricht.
+- Bei instabilem Netz geeigneten Spannungsschutz verwenden. Gerät nicht außerhalb der angegebenen Nennwerte betreiben.
+- Gerät beim Transport aufrecht und stabil halten; nicht umdrehen, fallen lassen oder Stößen aussetzen.
+- Tischfläche und Innenraum nicht mit Wasser abwaschen. Flüssigkeiten von elektrischen Teilen fernhalten.
+- Feuerzeuge, Zigarettenreste, Münzen und andere Kleinteile dürfen nicht in das Gerät gelangen.
+- Spielfläche und Spielsteine nicht mit scharfen Gegenständen zerkratzen.
+- Bei längerer Lagerung Netzstecker ziehen und vor direkter Sonne, übermäßiger Wärme und hoher Luftfeuchte schützen.
+- Bei Störungen Betrieb stoppen, Netzstecker ziehen und durch qualifiziertes Personal prüfen lassen.
+- Eine beschädigte Netzleitung darf nur durch qualifiziertes Personal mit einer geeigneten Leitung ersetzt werden.
 
-### Hauptkomponenten
+> **WICHTIG**
+> Verwenden Sie den für das Gerät vorgesehenen Spielsteinsatz. Falsche Abmessungen, Gewichte oder magnetische Eigenschaften können Blockaden, Sortierfehler oder Schäden verursachen. Ausführung und Bedienelemente können je nach Modell abweichen; maßgeblich ist das tatsächliche Produkt.
 
-- Außenrahmen
-- Sortierführung
-- Mischplatte
-- Würfelschalen-Baugruppe
-- Förderbaugruppe
-- Wendeteller
-- Sortierbaugruppe
+<a id="section-02"></a>
 
-Abbildungen sind beispielhaft. Maßgeblich sind Bedienelemente und Kennzeichnungen des gekauften Produkts.
+## 02 PRODUKTÜBERSICHT
 
-## 3. Bedienfeld
+Das Produkt besteht aus der Haupttischeinheit, einem Außenrahmen und einem Untergestell. Je nach Modell besitzt das Untergestell vier Beine oder einen fahrbaren Standfuß. Zwei kompatible OKEY-Spielsteinsätze können mitgeliefert werden.
 
-- Ein/Aus-Taste: gedrückt halten, um die Steuerung ein- oder auszuschalten.
-- Modus-Taste: zeigt und ändert im Rücksetz-Zustand den eingestellten Spielmodus.
-- Auf/Ab-Tasten: heben oder senken das Mittelfeld. Bei unterstützten Modellen pausieren beide Tasten gemeinsam das Mischen und heben das Feld an.
-- Würfeltasten: würfeln und markieren die Geberposition. Zwei diagonal gegenüberliegende Würfeltasten aktivieren den Rücksetz-Zustand.
-- Statusanzeige: zeigt den aktiven Modus oder einen Fehlercode.
-- Positionsanzeigen: markieren die Geberposition oder die von einer Störung betroffene Seite.
+![PRODUKTÜBERSICHT](../images/product-overview.png)
 
-## 4. Grundbedienung
+Die Abbildungen zeigen typische Ausführungen. Form, Oberfläche und Aufbau können modellabhängig abweichen.
 
-### Ein- und Ausschalten
+<a id="section-03"></a>
 
-1. Tisch stabil aufstellen, Mittelfeld schließen und Fremdkörper entfernen.
-2. Netzkabel an die passende geerdete Steckdose anschließen.
-3. Ein/Aus-Taste etwa 5 Sekunden gedrückt halten. Zum Ausschalten erneut etwa 5 Sekunden gedrückt halten.
-4. Bleibt der Tisch länger als 30 Minuten unbenutzt im Rücksetz-Zustand, schalten unterstützte Modelle automatisch ab.
+## 03 KOMPONENTEN DER HAUPTEINHEIT
 
-### Spielbetrieb und Rücksetzen
+Die Haupteinheit verbindet elektronische Steuerung und mechanische Handhabung. Die nummerierte Darstellung zeigt die Hauptbaugruppen.
 
-1. Im Rücksetz-Zustand eine Auf/Ab-Taste drücken, um das Mittelfeld anzuheben. Erneut drücken, um es abzusenken.
-2. Nur den freigegebenen Steinsatz in die Öffnung geben. Hände, Kleidung und Gegenstände beim Schließen fernhalten.
-3. Während des Mischens beide Auf/Ab-Tasten gemeinsam drücken, um bei unterstützten Modellen zu pausieren und das Feld anzuheben. Eine Auf/Ab-Taste drücken, um abzusenken und fortzusetzen.
-4. Die Würfeltaste an der Geberposition drücken, um zu würfeln und die Position zu beleuchten.
-5. Für den Rücksetz-Zustand zwei diagonal gegenüberliegende Würfeltasten etwa 3 Sekunden gedrückt halten.
+![KOMPONENTEN DER HAUPTEINHEIT](../images/main-unit-components.png)
 
-## 5. OKEY- oder 101-Modus wählen
+| Nummer | Komponente |
+|---|---|
+| 1 | Außenrahmen |
+| 2 | Sortierführung |
+| 3 | Mischwanne |
+| 4 | Würfelfach-Baugruppe |
+| 5 | Förderer-Baugruppe |
+| 6 | Drehteller |
+| 7 | Sortierbaugruppe |
 
-1. Tisch in den Rücksetz-Zustand bringen.
-2. Modus-Taste etwa 5 Sekunden gedrückt halten. Ein Signal ertönt und der aktuelle Modus erscheint.
-3. Bei unterstützten Modellen erneut etwa 5 Sekunden gedrückt halten, um zwischen OKEY und 101 zu wechseln.
-4. Modus vor dem Einlegen der Steine prüfen. Nicht jedes Modell und nicht jeder Steinsatz unterstützt beide Modi.
+<a id="section-04"></a>
 
-## 6. Servicediagnose
+## 04 BEDIENFELD
 
-**Nur für geschultes Servicepersonal. Personen, Kleidung und Gegenstände von beweglichen Teilen fernhalten.**
+Die Tastenanordnung kann modellabhängig abweichen. Prüfen Sie vor der Bedienung die Symbole am eingebauten Bedienfeld.
 
-Im Rücksetz-Zustand alle vier Würfeltasten etwa 3 Sekunden gedrückt halten, um die Einzelschrittdiagnose zu starten. Nach dem Test wiederholen, um sie zu verlassen.
+![BEDIENFELD](../images/control-panel.jpg)
 
-- Modus 0 - Hubmechanismus des Mittelfelds
-- Modus 1 - Mischplattenmechanismus
-- Modus 2 - Förderbaugruppen
-- Modus 3 - Sortierbaugruppen
-- Modus 4 - Übergabebrücken
-- Modus 5 - Wendeteller
-- Modus 6 - Würfelschalenmotor und Summer
-- Modus 7 - Dauer-/Alterungstest; nur autorisierter Werksservice
+| Nummer | Bedienelement |
+|---|---|
+| 1 | Ein-/Aus-Taste |
+| 2 | Modus-Taste |
+| 3 | Würfelfach |
+| 4 | Hubtasten (auf/ab) |
+| 5 | Würfeltasten |
+| 6 | Statusanzeige |
+| 7 | Positionsanzeigen |
 
-## 7. Fehlercodes
+<a id="section-05"></a>
 
-Die Zehnerstelle bezeichnet die Komponentengruppe, die Einerstelle die Seite. Die entsprechende Positionsanzeige blinkt ebenfalls. Beispiel: 21 bezeichnet den Förderer auf Seite 1.
+## 05 EIN- / AUSSCHALTEN
 
-**Ost/Süd/West/Nord beziehen sich auf die Service-Referenzrichtung und nicht zwingend auf die Sitzrichtung. Nutzen Sie zusätzlich die blinkende Anzeige.**
+- Ein-/Aus-Taste 5 Sekunden gedrückt halten, um das Gerät ein- oder auszuschalten.
+- Neustart aus Grundstellung, Mischbetrieb oder Alarmzustand: Zum Ausschalten 5 Sekunden gedrückt halten, danach zum Einschalten erneut 5 Sekunden gedrückt halten.
 
-| Komponente | Code |
-|---|---:|
-| Hubmechanismus Mittelfeld | 00 |
-| Mischplatte | 01 |
-| Förderer Ost | 21 |
-| Förderer Süd | 22 |
-| Förderer West | 23 |
-| Förderer Nord | 24 |
-| Sortierer Ost | 31 |
-| Sortierer Süd | 32 |
-| Sortierer West | 33 |
-| Sortierer Nord | 34 |
-| Übergabebrücke Ost | 41 |
-| Übergabebrücke Süd | 42 |
-| Übergabebrücke West | 43 |
-| Übergabebrücke Nord | 44 |
-| Wendeteller Ost | 51 |
-| Wendeteller Süd | 52 |
-| Wendeteller West | 53 |
-| Wendeteller Nord | 54 |
+Bleibt das Gerät im Grundstellung (Reset) 30 Minuten unbedient, schaltet es sich automatisch aus.
 
-## 8. Wartung
+<a id="section-06"></a>
 
-### Empfohlener Plan
+## 06 GRUNDBEDIENUNG
 
-- Nach Gebrauch: Fremdkörper entfernen und sichtbaren Staub trocken abwischen.
-- Bei Bedarf: Spielfläche und Steine nach den folgenden Verfahren reinigen.
-- Alle drei Monate: Tuch, Rahmen, Kabel, Abdeckungen und Steinweg prüfen; bei gewerblicher Nutzung häufiger.
-- Fachservice: nach Betriebsstunden, wiederholten Fehlercodes, ungewöhnlichen Geräuschen oder regionaler Serviceempfehlung.
+### 01 Mittelteil anheben / absenken
 
-### Pflege der Spielfläche
+In Grundstellung (Reset) eine Hubtaste einmal drücken, um das Mittelteil anzuheben, und erneut drücken, um es abzusenken. Während des Mischens zwei gegenüberliegende Hubtasten gleichzeitig drücken: Das Mittelteil fährt hoch und der Vorgang pausiert. Eine Hubtaste erneut drücken, um abzusenken und fortzufahren.
 
-Netzstecker ziehen. Abnehmbaren Rand nur entfernen, wenn das Modell dies vorsieht. Tuch mit einer sauberen weichen Bürste vorsichtig in eine Richtung bürsten und nicht durchnässen. Bei gelösten oder gewellten Kanten den Betrieb einstellen und den Support kontaktieren, sofern kein freigegebener Klebstoff samt Verfahren geliefert wurde.
+### 02 Würfeln
 
-### Steine reinigen
+Die Würfeltaste an der gewünschten Spielerposition drücken. Die zugehörige Positionsanzeige leuchtet und der Würfelmotor läuft.
 
-Steine auf einer sauberen ebenen Fläche anordnen. Eine kleine Menge freigegebenen, rückstandsfreien Reinigers auf ein weiches Tuch geben - niemals direkt auf Steine oder Maschine sprühen. Alle Flächen abwischen und bei Raumtemperatur vollständig trocknen lassen. Gravuren vorsichtig mit einer weichen Zahnbürste reinigen. Kein Waschmittel, Spülmittel, Scheuermittel, Lösungsmittel, Möbelpolitur oder Föhn verwenden.
+### 03 In den Grundstellung (Reset) wechseln
 
-### Innenreinigung
+Zwei diagonal gegenüberliegende Würfeltasten gemeinsam 3 Sekunden gedrückt halten.
 
-Benutzer dürfen nach dem Trennen vom Netz nur zugängliche Bereiche reinigen. Weiche Bürste oder schwachen Staubsauger verwenden, ohne Leitungen, Sensoren, Riemen oder Mechanik zu berühren. Innenreinigung, Schmierung, Einstellung und Demontage gehören in die Hände geschulten Servicepersonals. Möbelpolitur niemals als Schmiermittel verwenden.
+<a id="section-07"></a>
 
-## 9. Eingeschränkte Garantie
+## 07 OKEY- / 101-MODUS
 
-Dieses Handbuch beschreibt eine einjährige eingeschränkte Garantie ab Verkaufsdatum. Kaufvertrag, regionale Garantiebedingungen und zwingendes Verbraucherrecht haben Vorrang.
+1. Gerät in den Grundstellung (Reset) versetzen.
+2. Modus-Taste 5 Sekunden gedrückt halten.
+3. Ein Signal ertönt und die Anzeige wechselt zwischen OKEY und 101.
+4. Den 5-Sekunden-Tastendruck wiederholen, um zurückzuschalten.
 
-1. Kaufbeleg, Seriennummer und mitgelieferte Garantiedokumente aufbewahren.
-2. Bestätigte Herstellungsfehler werden innerhalb der geltenden Frist über Verkäufer oder autorisierten Service nach regionaler Regelung bearbeitet.
-3. Außerhalb der Garantie können Arbeits-, Reise- und Ersatzteilkosten entstehen.
-4. Steine, Außenleisten und Spielfläche sind Verschleißteile, sofern kein anfänglicher Mangel oder abweichendes Gesetz vorliegt.
+<a id="section-08"></a>
 
-### Übliche Ausschlüsse, vorbehaltlich örtlichen Rechts
+## 08 SERVICEDIAGNOSE
 
-- Schäden nach Ablauf der geltenden Garantiefrist.
-- Entfernte Seriennummer oder unzulässige Änderung von Produktunterlagen.
-- Schäden durch falschen Transport, Installation, Spannung, Nutzung, Reinigung, Wartung oder Lagerung.
-- Schäden durch nicht autorisierte Demontage, Änderung oder Reparatur.
-- Schäden durch instabile Stromversorgung, ungewöhnliche Temperatur oder Feuchte, Flüssigkeit oder höhere Gewalt.
+> WICHTIG: Der Diagnosemodus setzt interne Mechanismen in Bewegung. Nur für geschulte Prüfungen bei freier Spielfläche verwenden.
 
-## 10. Support
+In Grundstellung alle vier Würfeltasten gemeinsam 3 Sekunden gedrückt halten. Zum Beenden alle vier Tasten erneut gemeinsam gedrückt halten; das Gerät kehrt zum Mischbetrieb zurück.
 
-Für Modellprüfung, Ersatzteile, Fehlercodes, Garantie oder freigegebene Reinigungsmittel wenden Sie sich an INEAN PLAY.
+- 0 - Zentralhub
+- 1 - Hauptdrehteller
+- 2 - Transporteinheiten an allen vier Seiten
+- 3 - Stapel- und Schiebeeinheiten an allen vier Seiten
+- 4 - Spielstein-Hubeinheiten an allen vier Seiten
+- 5 - Drehbasis-/Spielstein-Schiebeeinheiten an allen vier Seiten
+- 6 - Würfelmotor und Signalgeber
+- 7 - automatischer Dauerlauftest
 
-- E-Mail: service@ineanplay.com
-- Website: https://ineanplay.com
+<a id="section-09"></a>
 
-Für Serviceanfragen Modell, Seriennummer, Kaufdatum, Fehlercode sowie ein klares Foto oder Video bereithalten.
+## 09 FEHLERCODES
+
+Ein Fehlercode bezeichnet den zu prüfenden Funktionsbereich; er weist nicht zwingend auf ein defektes Bauteil hin. Bei den Codegruppen 21-54 kennzeichnet die letzte Ziffer die Seite. Die zugehörige Positionsanzeige blinkt. Tritt der Fehler nach einem Neustart erneut auf, Betrieb stoppen.
+
+Für Gruppen 21-54: 1 Ost · 2 Süd · 3 West · 4 Nord
+
+| CODE | FUNKTIONSBEREICH |
+|---|---|
+| 00 | Zentralhub |
+| 01 | Hauptdrehteller |
+| 21 | Transporteinheit Ost |
+| 22 | Transporteinheit Süd |
+| 23 | Transporteinheit West |
+| 24 | Transporteinheit Nord |
+| 31 | Stapel- und Schiebeeinheit Ost |
+| 32 | Stapel- und Schiebeeinheit Süd |
+| 33 | Stapel- und Schiebeeinheit West |
+| 34 | Stapel- und Schiebeeinheit Nord |
+| 41 | Spielstein-Hubeinheit Ost |
+| 42 | Spielstein-Hubeinheit Süd |
+| 43 | Spielstein-Hubeinheit West |
+| 44 | Spielstein-Hubeinheit Nord |
+| 51 | Drehbasiseinheit Ost |
+| 52 | Drehbasiseinheit Süd |
+| 53 | Drehbasiseinheit West |
+| 54 | Drehbasiseinheit Nord |
+
+<a id="section-10"></a>
+
+## 10 WARTUNGSPLAN
+
+1. **Nach Aufstellung / in den ersten 3 Monaten**. Regelmäßig prüfen. Tischfläche und passende Spielsteine sauber und trocken halten.
+2. **Alle 3 Monate**. Rahmen, Oberflächenstoff und Mischbereich gründlich reinigen. Bei Staub oder intensiver Nutzung häufiger reinigen.
+3. **Mindestens 3-mal pro Jahr**. Eine umfassende, an Nutzung und Umgebung angepasste Inspektion und Wartung durchführen lassen.
+
+### OBERFLÄCHENSTOFF
+
+Stromversorgung trennen. Abnehmbare Umrandung nur entfernen, wenn das Modell dies zulässt. Den Stoff mit einer sauberen, weichen Bürste vorsichtig in eine Richtung abbürsten. Nicht durchnässen, schaben oder mit harter Bürste bearbeiten.
+
+![OBERFLÄCHENSTOFF](../images/surface-fabric.png)
+
+Die Abbildungen zeigen typische Ausführungen. Form, Oberfläche und Aufbau können modellabhängig abweichen.
+
+<a id="section-11"></a>
+
+## 11 OBERFLÄCHEN- UND SPIELSTEINPFLEGE
+
+1. Hebt sich eine Stoffkante oder Ecke, Betrieb stoppen. Sehr wenig materialverträglichen Klebstoff auftragen und flach andrücken, bis die Stelle sicher hält. Bei unklarer Materialverträglichkeit qualifizierten Service einsetzen.
+
+![OBERFLÄCHEN- UND SPIELSTEINPFLEGE](../images/fabric-edge-care.jpg)
+
+2. Spielsteine auf einer sauberen, ebenen Fläche anordnen. Ein sauberes Tuch mit einem freigegebenen, nicht korrosiven Oberflächenreiniger leicht anfeuchten und alle sechs Seiten abwischen. Reiniger nie direkt in das Gerät sprühen.
+
+![OBERFLÄCHEN- UND SPIELSTEINPFLEGE](../images/tile-cleaning.jpg)
+
+3. Gravierte Vorderseiten mit einer leicht feuchten, weichen Bürste und geringem Druck reinigen. Nicht so stark bürsten, dass Farbe abgetragen wird. Vor dem Einlegen vollständig mit weichem Tuch oder kalter Luft trocknen.
+
+![OBERFLÄCHEN- UND SPIELSTEINPFLEGE](../images/engraved-tile-care.jpg)
+
+> **WICHTIG**
+> Kein Waschpulver, Spülmittel, Scheuermittel, Lösungsmittel oder aggressive Chemikalien verwenden. Sie können Aufdruck, Oberfläche oder magnetische Eigenschaften beschädigen.
+
+<a id="section-12"></a>
+
+## 12 INNENREINIGUNG
+
+1. Vor dem Öffnen eines Servicezugangs den Netzstecker ziehen.
+2. Losen Staub im Mischbereich mit schwacher Saugleistung oder weicher Bürste entfernen.
+3. Elektrische oder mechanische Teile bei der Reinigung nicht bewegen, verbiegen oder mit Kraft belasten.
+4. Kontakt- und Gleitbereiche der Spielsteine sauber halten. Nur die für das Modell angegebene Schmierstoffart und -menge verwenden.
+5. Oberflächenreiniger nicht auf Innenteile auftragen. Lässt sich Schmutz nicht sicher entfernen, qualifizierten Service einsetzen.
+
+<a id="section-13"></a>
+
+## 13 GARANTIE- UND SERVICEBEDINGUNGEN
+
+Garantiedauer und Serviceumfang ergeben sich aus Kaufvertrag, Rechnung oder der mitgelieferten Garantieunterlage. Zwingende gesetzliche Rechte bleiben unberührt.
+
+- Kaufnachweis, Garantieunterlage und Seriennummer des Produkts aufbewahren.
+- Fertigungs- oder Materialfehler werden nach der jeweils geltenden Garantieunterlage behandelt.
+- Service außerhalb der Garantie kann Arbeits-, Fahrt- und Ersatzteilkosten umfassen.
+- Spielsteine, Außenverkleidung und Spielflächenstoff sind Verschleißteile, sofern die Garantie nichts anderes festlegt.
+
+### Typische Ausschlüsse
+
+- Garantiezeit abgelaufen oder Nachweis der Deckung nicht vorhanden.
+- Seriennummer oder Garantieangaben verändert, entfernt oder dem Gerät nicht zuzuordnen.
+- Schäden durch falschen Transport, Aufstellung, Gebrauch, Reinigung, Wartung oder Lagerung.
+- Schäden durch unbefugtes Zerlegen, Reparieren oder Verändern.
+- Schäden durch ungeeignete Stromversorgung, Temperatur, Feuchte, Flüssigkeitseintritt oder Ereignisse außerhalb angemessener Kontrolle.
 
 ---
 
-## Official INEAN PLAY Links
+## Offizieller INEAN PLAY Support
 
-- Website: [ineanplay.com](https://ineanplay.com/)
-- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)
-- Facebook: [INEAN PLAY](https://www.facebook.com/profile.php?id=61585370578775)
-- Instagram: [@ineanplay](https://www.instagram.com/ineanplay/)
-- TikTok: [@ineanplay](https://www.tiktok.com/@ineanplay)
-- YouTube: [@ineanplay](https://www.youtube.com/@ineanplay)
-- Support: [service@ineanplay.com](mailto:service@ineanplay.com)
+- [ineanplay.com](https://ineanplay.com/)
+- [service@ineanplay.com](mailto:service@ineanplay.com)
+- [WhatsApp: +86 173 7839 0199](https://wa.me/8617378390199)

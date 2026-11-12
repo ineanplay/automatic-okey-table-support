@@ -1,174 +1,242 @@
-# INEAN PLAY OTOKEY - Otomatik Okey Masası - Kullanım Kılavuzu
+# Otomatik OKEY Masası - Kullanım Kılavuzu
 
-Kurulum, kullanım, temizlik veya servis öncesinde bu kılavuzu okuyun.
+Kurulum, kullanım, temizlik veya servis öncesinde bu kılavuzun tamamını okuyun.
 
-_Sürüm - Temmuz 2026_
+_2026-11-12 tarihinde sağlanan A5 beyaz etiketli kılavuzun Türkçe 19-35. sayfalarına göre güncellenmiştir. Metin kaynakla aynıdır; tam resimli düzen orijinal PDF’dedir._
 
-## 1. Önemli güvenlik bilgileri
+[Tam resimli kılavuz (EN / TR / DE)](../pdf/Automatic_OKEY_Table_User_Manual_EN-TR-DE.pdf) | [Türkçe PDF](../pdf/INEAN_PLAY_OTOKEY_User_Manual_TR.pdf)
 
-Masayı yalnızca bu kılavuzda açıklandığı şekilde kullanın. Kılavuzu ürünle birlikte saklayın ve sonraki kullanıcıya verin.
+## İçindekiler
 
-- Yalnızca ilgili model için onaylanmış aksesuarları ve manyetik okey taşlarını kullanın. Uygun olmayan taşlar mekanizmayı sıkıştırabilir veya bozabilir.
-- Yetkili servis teknisyeni değilseniz masayı sökmeyin, değiştirmeyin veya onarmayın.
-- Masayı yalnızca ürün etiketindeki voltaj ve frekansa uygun, doğru şekilde topraklanmış bir prize bağlayın.
-- 220 V modellerde 175-235 V dışında onaylı voltaj regülatörü gerekir. Ürün etiketi ve yerel elektrik kuralları önceliklidir.
-- Taşıma sırasında masayı dik ve dengeli tutun. Ters çevirmeyin, düşürmeyin ve mekanizmada taş varken hareket ettirmeyin.
-- Temizlikten önce fişi çekin. Açıklıklara, motorlara, sensörlere veya elektronik parçalara su ya da temizleyici püskürtmeyin.
-- Çalıştırmadan önce bozuk para, çakmak, sigara izmariti ve küçük cisimleri kaldırın. İçeri yabancı cisim girerse hemen durdurun.
-- Keskin cisimleri oyun kumaşından ve taşlardan uzak tutun.
-- Doğrudan güneş, aşırı sıcak ve yüksek nemden koruyun.
-- Güç kablosu hasarlıysa kullanmayı bırakın ve INEAN PLAY veya yetkili servisle iletişime geçin.
+- [01 GÜVENLİK VE KULLANIM AMACI](#section-01)
+- [02 ÜRÜN GENEL GÖRÜNÜMÜ](#section-02)
+- [03 ANA ÜNİTE BİLEŞENLERİ](#section-03)
+- [04 KONTROL PANELİ](#section-04)
+- [05 AÇMA / KAPAMA](#section-05)
+- [06 TEMEL KULLANIM](#section-06)
+- [07 OKEY / 101 MODU](#section-07)
+- [08 SERVİS TANILAMA MODU](#section-08)
+- [09 ARIZA KODLARI](#section-09)
+- [10 BAKIM PROGRAMI](#section-10)
+- [11 YÜZEY VE TAŞ BAKIMI](#section-11)
+- [12 MAKİNE İÇİ BAKIM](#section-12)
+- [13 GARANTİ VE SERVİS KOŞULLARI](#section-13)
 
-### Güvenlik ve yasal bildirim
+<a id="section-01"></a>
 
-Talimatlara uyulmaması yaralanmaya veya ürün hasarına yol açabilir ve yasaların izin verdiği ölçüde garanti kapsamını etkileyebilir. Zorunlu tüketici hakları saklıdır.
+## 01 GÜVENLİK VE KULLANIM AMACI
 
-## 2. Ürün tanıtımı
+Güvenli ve kararlı çalışma için aşağıdaki talimatlara ve ürün etiketindeki değerlere uyun.
 
-Otomatik okey masası ana ünite, dış çerçeve ve ayak ya da tabandan oluşur. Görünüm ve taban modele göre değişebilir. Ana ünite; elektronik kontrol ile taş toplama, karıştırma, sıralama ve dağıtma mekanizmalarını bir araya getirir.
+- Yalnızca bu modelle uyumlu, onaylanmış taşları, aksesuarları ve yedek parçaları kullanın.
+- Makineyi kendiniz sökmeyin, değiştirmeyin veya onarmayın. İç müdahaleler yalnızca yetkin servis personeli tarafından yapılmalıdır.
+- Ürün etiketinde belirtilen gerilim/frekansa ve yerel kurallara uygun, topraklı bir prize bağlayın.
+- Şebeke kararsızsa uygun gerilim koruma ekipmanı kullanın. Ürünü etikette belirtilen değerlerin dışında çalıştırmayın.
+- Taşıma sırasında makineyi dik ve dengeli tutun; ters çevirmeyin, düşürmeyin ve darbeye maruz bırakmayın.
+- Masa yüzeyini veya iç bölümü suyla yıkamayın; sıvıları elektrikli parçalardan uzak tutun.
+- Çakmak, sigara izmariti, bozuk para ve benzeri küçük cisimlerin makineye girmesini önleyin.
+- Oyun yüzeyini veya taşları keskin cisimlerle çizmeyin.
+- Uzun süreli depolamada fişi çekin; doğrudan güneş, aşırı sıcaklık ve yüksek nemden koruyun.
+- Arıza halinde kullanımı durdurun, gücü kesin ve yetkin personele kontrol ettirin.
+- Hasarlı güç kablosu, uygun bir kabloyla yalnızca yetkin personel tarafından değiştirilmelidir.
 
-### Ana bileşenler
+> **ÖNEMLİ**
+> Makine için belirtilen taş takımını kullanın. Uygun olmayan boyut, ağırlık veya manyetik özellik; sıkışma, sıralama hatası ya da hasara neden olabilir. Görünüm ve kontroller modele göre değişebilir; gerçek ürün esas alınmalıdır.
 
-- Dış çerçeve
-- Sıralama kılavuzu
-- Karıştırma paneli
-- Zar haznesi grubu
-- Taşıma grubu
-- Döner hazne
-- Sıralayıcı grubu
+<a id="section-02"></a>
 
-Çizimler temsilidir. Satın aldığınız ürünün düğme ve etiketlerini esas alın.
+## 02 ÜRÜN GENEL GÖRÜNÜMÜ
 
-## 3. Kontrol paneli
+Ürün; ana masa ünitesi, dış çerçeve ve taşıyıcı tabandan oluşur. Modele bağlı olarak taban dört ayaklı veya hareketli kaideli olabilir. İki uyumlu OKEY taş takımı ürünle birlikte verilebilir.
 
-- Güç düğmesi: kontrolü açmak veya kapatmak için basılı tutun.
-- Mod düğmesi: sıfırlama durumunda ayarlı oyun modunu gösterir ve değiştirir.
-- Panel yukarı/aşağı düğmeleri: orta paneli kaldırır veya indirir. Desteklenen modellerde iki düğmeye birlikte basmak karıştırmayı duraklatır ve paneli kaldırır.
-- Zar düğmeleri: zarı çalıştırır ve dağıtıcı konumunu gösterir. Çapraz iki zar düğmesi sıfırlama durumuna geçirir.
-- Durum ekranı: etkin modu veya arıza kodunu gösterir.
-- Konum ışıkları: dağıtıcı konumunu veya arızalı tarafı belirtir.
+![ÜRÜN GENEL GÖRÜNÜMÜ](../images/product-overview.png)
 
-## 4. Temel kullanım
+Çizimler tipik yapılandırmaları gösterir. Şekil, yüzey ve yapı modele göre farklı olabilir.
 
-### Açma ve kapatma
+<a id="section-03"></a>
 
-1. Masanın dengeli, orta panelin kapalı ve yüzeyin yabancı cisimlerden arınmış olduğunu kontrol edin.
-2. Güç kablosunu uygun topraklı prize bağlayın.
-3. Kontrolü açmak için Güç düğmesini yaklaşık 5 saniye basılı tutun. Kapatmak için tekrar yaklaşık 5 saniye basılı tutun.
-4. Masa sıfırlama durumunda 30 dakikadan uzun süre kullanılmazsa desteklenen modeller otomatik kapanır.
+## 03 ANA ÜNİTE BİLEŞENLERİ
 
-### Oyun ve sıfırlama
+Ana ünite elektronik kontrol ve mekanik taşıma sistemlerini bir araya getirir. Numaralı şema temel bileşenleri gösterir.
 
-1. Sıfırlama durumunda orta paneli kaldırmak için Yukarı/Aşağı düğmelerinden birine basın; indirmek için tekrar basın.
-2. Yalnızca onaylı taş takımını açıklığa koyun. Panel kapanırken el, giysi ve cisimleri uzak tutun.
-3. Karıştırma sırasında desteklenen modellerde iki Yukarı/Aşağı düğmesine birlikte basarak işlemi duraklatıp paneli kaldırın. Devam etmek için bir düğmeye basıp paneli indirin.
-4. Zar atmak ve dağıtıcı konumunu aydınlatmak için o konuma bakan Zar düğmesine basın.
-5. Sıfırlama durumuna dönmek için çapraz iki Zar düğmesini yaklaşık 3 saniye basılı tutun.
+![ANA ÜNİTE BİLEŞENLERİ](../images/main-unit-components.png)
 
-## 5. OKEY veya 101 modunu seçme
+| Numara | Bileşen |
+|---|---|
+| 1 | Dış çerçeve |
+| 2 | Sıralama kılavuzu |
+| 3 | Karıştırma tablası |
+| 4 | Zar tablası ünitesi |
+| 5 | Konveyör ünitesi |
+| 6 | Döner tabla |
+| 7 | Sıralama ünitesi |
 
-1. Masayı sıfırlama durumuna alın.
-2. Mod düğmesini yaklaşık 5 saniye basılı tutun. Bir uyarı sesi duyulur ve geçerli mod ekranda görünür.
-3. Desteklenen modellerde OKEY ve 101 arasında geçiş için Mod düğmesini tekrar yaklaşık 5 saniye basılı tutun.
-4. Taşları yüklemeden önce ekrandaki modu doğrulayın. Her model ve taş takımı iki modu da desteklemez.
+<a id="section-04"></a>
 
-## 6. Servis tanılama modu
+## 04 KONTROL PANELİ
 
-**Yalnızca eğitimli servis personeli içindir. Test sırasında kullanıcıları, gevşek giysileri ve cisimleri hareketli parçalardan uzak tutun.**
+Düğme yerleşimi modele göre değişebilir. Kullanımdan önce kurulu paneldeki simgeleri kontrol edin.
 
-Sıfırlama durumunda dört Zar düğmesini yaklaşık 3 saniye basılı tutarak tek adımlı tanılamaya girin. Testten sonra çıkmak için aynı işlemi tekrarlayın.
+![KONTROL PANELİ](../images/control-panel.jpg)
 
-- Mod 0 - orta panel kaldırma mekanizması
-- Mod 1 - karıştırma paneli mekanizması
-- Mod 2 - taşıma grupları
-- Mod 3 - sıralayıcı grupları
-- Mod 4 - geçiş köprüleri
-- Mod 5 - döner hazne grupları
-- Mod 6 - zar haznesi motoru ve uyarı sesi
-- Mod 7 - parça dayanım/yaşlandırma testi; yalnızca yetkili fabrika servisi
+| Numara | Kontrol |
+|---|---|
+| 1 | Güç düğmesi |
+| 2 | Mod düğmesi |
+| 3 | Zar bölmesi |
+| 4 | Panel kaldırma/indirme düğmeleri |
+| 5 | Zar atma düğmeleri |
+| 6 | Durum ekranı |
+| 7 | Konum göstergeleri |
 
-## 7. Arıza kodları
+<a id="section-05"></a>
 
-Onlar basamağı parça grubunu, birler basamağı tarafı gösterir. İlgili konum ışığı da yanıp söner. Örnek: 21 kodu 1. taraftaki taşıma grubunu belirtir.
+## 05 AÇMA / KAPAMA
 
-**Doğu/güney/batı/kuzey adları servis referans yönüne göredir ve oturma yönüyle aynı olmayabilir. Etkilenen tarafı yanıp sönen ışıktan doğrulayın.**
+- Makineyi açmak veya kapatmak için güç düğmesini 5 saniye basılı tutun.
+- Sıfırlama, karıştırma veya alarm durumundan yeniden başlatmak için tuşu 5 saniye basılı tutarak kapatın; ardından tekrar 5 saniye basılı tutarak açın.
 
-| Bileşen | Kod |
-|---|---:|
-| Orta panel kaldırma | 00 |
-| Karıştırma paneli | 01 |
-| Doğu taşıyıcı | 21 |
-| Güney taşıyıcı | 22 |
-| Batı taşıyıcı | 23 |
-| Kuzey taşıyıcı | 24 |
-| Doğu sıralayıcı | 31 |
-| Güney sıralayıcı | 32 |
-| Batı sıralayıcı | 33 |
-| Kuzey sıralayıcı | 34 |
-| Doğu geçiş köprüsü | 41 |
-| Güney geçiş köprüsü | 42 |
-| Batı geçiş köprüsü | 43 |
-| Kuzey geçiş köprüsü | 44 |
-| Doğu döner hazne | 51 |
-| Güney döner hazne | 52 |
-| Batı döner hazne | 53 |
-| Kuzey döner hazne | 54 |
+Makine sıfırlama durumunda 30 dakika işlem görmezse otomatik olarak kapanır.
 
-## 8. Bakım
+<a id="section-06"></a>
 
-### Önerilen program
+## 06 TEMEL KULLANIM
 
-- Kullanımdan sonra: yabancı cisimleri kaldırın ve görünen tozu kuru yumuşak bezle silin.
-- Gerektikçe: oyun kumaşını ve taşları aşağıdaki yöntemlerle temizleyin.
-- Üç ayda bir: kumaşı, çerçeveyi, kabloyu, hareketli kapakları ve taş yolunu kontrol edin; ticari kullanımda daha sık yapın.
-- Profesyonel servis: çalışma süresine, tekrarlanan arıza kodlarına, olağandışı sese veya yerel servis önerisine göre planlayın.
+### 01 Orta bölümü kaldırma / indirme
 
-### Oyun kumaşı bakımı
+Başlangıç konumunda (sıfırlama durumu) kaldırma/indirme düğmesine bir kez basarak orta bölümü kaldırın; yeniden basarak indirin. Karıştırma sırasında karşılıklı iki kaldırma/indirme düğmesine birlikte basmak orta bölümü kaldırır ve işlemi duraklatır; düğmelerden birine yeniden basmak bölümü indirir ve karıştırmayı sürdürür.
 
-Fişi çekin. Sökülebilir kenarı yalnızca model buna izin veriyorsa çıkarın. Kumaşı temiz, yumuşak bir fırçayla tek yönde nazikçe fırçalayın; ıslatmayın. Kenar kalkar veya kırışırsa, INEAN PLAY onaylı yapıştırıcı ve yöntem sağlamadıysa masayı kullanmayı bırakıp destekle iletişime geçin.
+### 02 Zar atma
 
-### Taş temizliği
+İstenen oyuncu yönündeki zar düğmesine basın. İlgili konum göstergesi yanar ve zar motoru çalışır.
 
-Taşları temiz, düz bir yüzeye dizin. Üretici onaylı, kalıntı bırakmayan temizleyiciden az miktarda yumuşak beze uygulayın; doğrudan taşlara veya makineye püskürtmeyin. Tüm yüzleri silin ve oda sıcaklığında tamamen kurutun. Oyukları yumuşak diş fırçasıyla nazikçe temizleyin. Çamaşır deterjanı, bulaşık deterjanı, aşındırıcı, solvent, mobilya cilası veya saç kurutma makinesi kullanmayın.
+### 03 Sıfırlama durumuna dönme
 
-### İç temizlik
+Çapraz karşılıklı iki zar düğmesini birlikte 3 saniye basılı tutun.
 
-Kullanıcılar yalnızca fiş çekildikten sonra erişilebilir alanları temizleyebilir. Kablo, sensör, kayış ve mekanizmalara dokunmadan yumuşak fırça veya düşük emişli süpürge kullanın. İç temizlik, yağlama, ayar ve sökme işlemleri eğitimli servis personeli tarafından onaylı ürünlerle yapılmalıdır. Mobilya cilasını yağlayıcı olarak kullanmayın.
+<a id="section-07"></a>
 
-## 9. Sınırlı garanti
+## 07 OKEY / 101 MODU
 
-Bu kılavuz satış tarihinden itibaren bir yıllık sınırlı garantiyi açıklar. Satış sözleşmesi, bölgesel garanti politikası ve zorunlu tüketici mevzuatı önceliklidir.
+1. Makineyi sıfırlama durumuna getirin.
+2. Mod düğmesini 5 saniye basılı tutun.
+3. Bir uyarı sesi duyulur ve ekran OKEY ile 101 arasında değişir.
+4. Geri dönmek için 5 saniyelik basışı tekrarlayın.
 
-1. Fatura, seri numarası ve ürünle verilen garanti belgesini saklayın.
-2. Geçerli garanti süresinde doğrulanan üretim kusurları bölgesel politika kapsamında satıcı veya yetkili servis üzerinden ele alınır.
-3. Garanti dışı hizmetlerde işçilik, yol ve parça ücreti alınabilir.
-4. Teslimde mevcut bir kusur veya yerel yasal hak yoksa taşlar, dış kaplama ve oyun kumaşı aşınan parçalardır.
+<a id="section-08"></a>
 
-### Yerel mevzuata tabi yaygın kapsam dışı durumlar
+## 08 SERVİS TANILAMA MODU
 
-- Geçerli garanti süresinden sonraki hasarlar.
-- Seri numarasının kaldırılması veya ürün kayıtlarının yetkisiz değiştirilmesi.
-- Yanlış taşıma, kurulum, voltaj, kullanım, temizlik, bakım veya depolamadan doğan hasarlar.
-- Yetkisiz sökme, değişiklik veya onarımdan doğan hasarlar.
-- Dengesiz elektrik, olağandışı sıcaklık/nem, sıvı girişi veya mücbir sebeplerden doğan hasarlar.
+> ÖNEMLİ: Tanılama modu iç mekanizmaları çalıştırır. Yalnızca eğitimli kontrol sırasında ve oyun alanı boşken kullanın.
 
-## 10. Destek
+Sıfırlama durumunda dört zar atma tuşunu birlikte 3 saniye basılı tutarak teste girin. Çıkmak için dört tuşu yeniden birlikte basılı tutun; makine karıştırmaya döner.
 
-Model doğrulama, yedek parça, arıza kodu, garanti veya onaylı temizlik ürünü için INEAN PLAY ile iletişime geçin.
+- 0 - orta bölüm kaldırma mekanizması
+- 1 - ana döner tabla
+- 2 - dört yöndeki taşıma birimleri
+- 3 - dört yöndeki istifleme ve itme birimleri
+- 4 - dört yöndeki taş kaldırma birimleri
+- 5 - dört yöndeki döner taban / taş itme birimleri
+- 6 - zar motoru ve sesli uyarıcı
+- 7 - otomatik uzun süreli çalışma testi
 
-- E-posta: service@ineanplay.com
-- Web: https://ineanplay.com
+<a id="section-09"></a>
 
-Servis talebinde model, seri numarası, satın alma tarihi, arıza kodu ve net bir fotoğraf veya video paylaşın.
+## 09 ARIZA KODLARI
+
+Arıza kodu, kontrol edilmesi gereken işlev alanını gösterir; tek başına bir parçanın kesin arızalı olduğu anlamına gelmez. 21-54 kod gruplarında son rakam yönü belirtir. İlgili konum göstergesi yanıp söner. Yeniden başlatmadan sonra kod tekrarlanırsa kullanımı durdurun.
+
+21-54 gruplarında: 1 Doğu · 2 Güney · 3 Batı · 4 Kuzey
+
+| KOD | ARIZA BÖLGESİ |
+|---|---|
+| 00 | Orta bölüm kaldırma mekanizması |
+| 01 | Ana döner tabla |
+| 21 | Doğu taşıma birimi |
+| 22 | Güney taşıma birimi |
+| 23 | Batı taşıma birimi |
+| 24 | Kuzey taşıma birimi |
+| 31 | Doğu istifleme ve itme birimi |
+| 32 | Güney istifleme ve itme birimi |
+| 33 | Batı istifleme ve itme birimi |
+| 34 | Kuzey istifleme ve itme birimi |
+| 41 | Doğu taş kaldırma birimi |
+| 42 | Güney taş kaldırma birimi |
+| 43 | Batı taş kaldırma birimi |
+| 44 | Kuzey taş kaldırma birimi |
+| 51 | Doğu döner taban birimi |
+| 52 | Güney döner taban birimi |
+| 53 | Batı döner taban birimi |
+| 54 | Kuzey döner taban birimi |
+
+<a id="section-10"></a>
+
+## 10 BAKIM PROGRAMI
+
+1. **Kurulum sonrası / ilk 3 ay**. Düzenli kontrol yapın. Masa yüzeyini ve uyumlu taşları temiz ve kuru tutun.
+2. **Her 3 ayda bir**. Çerçeve, yüzey kumaşı ve karıştırma alanını kapsamlı biçimde temizleyin. Tozlu veya yoğun kullanımlı alanlarda sıklığı artırın.
+3. **Yılda en az 3 kez**. Kullanım ve ortam koşullarına uygun kapsamlı kontrol ve bakım yaptırın.
+
+### YÜZEY KUMAŞI
+
+Gücü kesin. Model izin veriyorsa sökülebilir kenarlığı çıkarın. Temiz, yumuşak kıllı bir fırçayla kumaşı tek yönde ve hafifçe fırçalayarak tozu alın. Islatmayın, kazımayın ve sert fırça kullanmayın.
+
+![YÜZEY KUMAŞI](../images/surface-fabric.png)
+
+Çizimler tipik yapılandırmaları gösterir. Şekil, yüzey ve yapı modele göre farklı olabilir.
+
+<a id="section-11"></a>
+
+## 11 YÜZEY VE TAŞ BAKIMI
+
+1. Kumaş kenarı veya köşesi kalkarsa kullanımı durdurun. Kumaş ve alt yüzeyle uyumlu yapıştırıcıdan çok az uygulayın; sabitlenene kadar düz bastırın. Uygunluktan emin değilseniz yetkin servise başvurun.
+
+![YÜZEY VE TAŞ BAKIMI](../images/fabric-edge-care.jpg)
+
+2. Taşları temiz ve düz bir yüzeye dizin. Temiz bir bezi, onaylı ve aşındırıcı olmayan yüzey temizleyiciyle hafifçe nemlendirin; her taşın altı yüzünü silin. Temizleyiciyi doğrudan makineye püskürtmeyin.
+
+![YÜZEY VE TAŞ BAKIMI](../images/tile-cleaning.jpg)
+
+3. Oyma yazılı yüzleri hafif nemli, yumuşak kıllı bir fırçayla ve az basınçla temizleyin. Boyayı kaldıracak kadar sert fırçalamayın. Yüklemeden önce yumuşak bez veya soğuk hava akımıyla tamamen kurutun.
+
+![YÜZEY VE TAŞ BAKIMI](../images/engraved-tile-care.jpg)
+
+> **ÖNEMLİ**
+> Çamaşır tozu, bulaşık deterjanı, aşındırıcı temizleyici, çözücü veya güçlü kimyasal kullanmayın. Bunlar baskıya, yüzey kaplamasına ya da manyetik özelliklere zarar verebilir.
+
+<a id="section-12"></a>
+
+## 12 MAKİNE İÇİ BAKIM
+
+1. Servis erişim bölgesini açmadan önce fişi prizden çekin.
+2. Karıştırma alanındaki gevşek tozu düşük emişli süpürge veya yumuşak fırçayla alın.
+3. Temizlik sırasında elektrikli ya da mekanik parçaları hareket ettirmeyin, bükmeyin veya zorlamayın.
+4. Taş temas ve kayma bölgelerini temiz tutun. Yalnızca model için belirtilen tür ve miktarda yağlayıcı kullanın.
+5. Yüzey temizleyicisini iç parçalara uygulamayın. Kalıntı güvenle çıkarılamıyorsa yetkin servis kullanın.
+
+<a id="section-13"></a>
+
+## 13 GARANTİ VE SERVİS KOŞULLARI
+
+Garanti süresi ve servis kapsamı; ürünle verilen satış sözleşmesi, fatura veya garanti belgesiyle belirlenir. Yerel mevzuattan doğan zorunlu haklar saklıdır.
+
+- Satın alma belgesini, garanti belgesini ve ürün seri numarasını saklayın.
+- Üretim veya malzeme kusurlarından kaynaklanan arızalar ilgili garanti belgesine göre değerlendirilir.
+- Garanti dışı servis; işçilik, yol ve yedek parça ücretlerini içerebilir.
+- İlgili garanti aksi belirtmedikçe taşlar, dış çerçeve ve oyun yüzeyi kumaşı aşınan parçalardır.
+
+### Tipik garanti dışı durumlar
+
+- Garanti süresinin bitmesi veya kapsam belgesinin sunulamaması.
+- Seri numarası ya da garanti bilgilerinin değiştirilmesi, silinmesi veya ürünle uyuşmaması.
+- Yanlış taşıma, kurulum, kullanım, temizlik, bakım veya depolamadan doğan hasarlar.
+- Yetkisiz sökme, onarım veya değişiklikten doğan hasarlar.
+- Uygunsuz elektrik, sıcaklık, nem, sıvı girişi veya makul kontrol dışındaki olaylardan doğan hasarlar.
 
 ---
 
-## Official INEAN PLAY Links
+## Resmi INEAN PLAY desteği
 
-- Website: [ineanplay.com](https://ineanplay.com/)
-- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)
-- Facebook: [INEAN PLAY](https://www.facebook.com/profile.php?id=61585370578775)
-- Instagram: [@ineanplay](https://www.instagram.com/ineanplay/)
-- TikTok: [@ineanplay](https://www.tiktok.com/@ineanplay)
-- YouTube: [@ineanplay](https://www.youtube.com/@ineanplay)
-- Support: [service@ineanplay.com](mailto:service@ineanplay.com)
+- [ineanplay.com](https://ineanplay.com/)
+- [service@ineanplay.com](mailto:service@ineanplay.com)
+- [WhatsApp: +86 173 7839 0199](https://wa.me/8617378390199)

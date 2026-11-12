@@ -13,6 +13,15 @@
 - Warranty: https://ineanplay.com/pages/warranty
 - B2B enquiries: https://ineanplay.com/pages/bulk-orders
 
+## Current user manuals
+
+- English: https://github.com/ineanplay/automatic-okey-table-support/blob/main/manuals/text/manual-en.md
+- Turkish: https://github.com/ineanplay/automatic-okey-table-support/blob/main/manuals/text/manual-tr.md
+- German: https://github.com/ineanplay/automatic-okey-table-support/blob/main/manuals/text/manual-de.md
+- Complete illustrated EN / TR / DE PDF: https://github.com/ineanplay/automatic-okey-table-support/blob/main/manuals/pdf/Automatic_OKEY_Table_User_Manual_EN-TR-DE.pdf
+
+These manuals were updated from the supplied white-label A5 source on 2026-11-12. The Azerbaijani July 2026 edition is superseded and has not been updated.
+
 ## Product pages
 
 - OTOKEY: https://ineanplay.com/products/inean-otokey

@@ -1,15 +1,19 @@
-# Searchable PDF User Manuals
+# Current PDF User Manuals
 
-This directory contains searchable PDF manuals for the INEAN PLAY automatic
-OKEY table.
+The current English, Turkish and German PDFs reproduce the corresponding pages of the supplied white-label A5 manual without reflow.
 
-- English
-- German
-- Turkish
-- Azerbaijani
+- [Complete illustrated EN / TR / DE manual](Automatic_OKEY_Table_User_Manual_EN-TR-DE.pdf) - all 52 pages, identical to the supplied source
+- [English](INEAN_PLAY_OTOKEY_User_Manual_EN.pdf) - original pages 2-18
+- [Türkçe](INEAN_PLAY_OTOKEY_User_Manual_TR.pdf) - original pages 19-35
+- [Deutsch](INEAN_PLAY_OTOKEY_User_Manual_DE.pdf) - original pages 36-52
 
-Refer to the product nameplate and regional warranty policy for model-specific
-information.
+The language PDFs retain the original printed page numbers, contents references, illustrations and text. Printed page numbers therefore differ from the PDF viewer's 1-17 page index.
+
+Updated on **2026-11-12**. See the [source manifest](../source-manifest.json) for the source checksum and provenance.
+
+### Previous Azerbaijani edition
+
+[Azərbaycan dili - July 2026 PDF](INEAN_PLAY_OTOKEY_User_Manual_AZ.pdf) is superseded reference material. It is not part of the new source and has not been updated. Use a current English, Turkish or German manual for operation, diagnostics, maintenance and warranty information.
 
 ---
 

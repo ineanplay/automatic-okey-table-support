@@ -1,16 +1,25 @@
 # Automatic OKEY Table Safety Information
 
-- Use a correctly grounded outlet matching the product nameplate.
-- Use only accessories and magnetic OKEY tiles approved for the model.
-- Keep the table upright and stable during transport.
-- Disconnect power before cleaning or removing visible foreign objects.
-- Keep liquids, coins, lighters, cigarette ends, and sharp objects away.
-- Do not disassemble, modify, lubricate, or repair internal parts unless you are
-  an authorized service technician.
-- Stop using the table if the power cord is damaged, liquid enters the machine,
-  an unusual smell appears, or abnormal mechanical noise continues.
+Based on the [current user manual](../manuals/text/manual-en.md), updated from the supplied EN / TR / DE manual on 2026-11-12. Confirm the installed model and product rating label before use.
 
-Model-specific safety labels and local electrical requirements take precedence.
+## SAFETY AND INTENDED USE
+
+For safe, reliable operation, observe all instructions below and the product rating label.
+
+- Use only compatible tiles, accessories and replacement parts approved for this model.
+- Do not dismantle, modify or repair the machine yourself. Internal work is for qualified service personnel only.
+- Connect to a grounded outlet that complies with local electrical rules and the voltage/frequency shown on the product rating label.
+- If the mains supply is unstable, use suitable voltage-protection equipment. Do not operate outside the product rating.
+- Transport the machine upright and stable. Do not invert, drop or subject it to impact.
+- Do not wash the tabletop or interior with water. Keep liquids away from electrical parts.
+- Prevent lighters, cigarette ends, coins and other small objects from entering the machine.
+- Do not scratch the playing surface or tiles with sharp objects.
+- For long storage, disconnect power and avoid direct sunlight, excessive heat and high humidity.
+- If a fault occurs, stop use and disconnect power before inspection by qualified personnel.
+- A damaged power cord must be replaced by qualified personnel using a suitable cord.
+
+> **IMPORTANT**
+> Use the tile set specified for the machine. Incorrect tile size, weight or magnetic properties may cause jams, sorting errors or damage. Appearance and controls may vary by model; the actual product takes precedence.
 
 ---
 

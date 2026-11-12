@@ -1,21 +1,27 @@
 # Warranty and Product Support
 
-Warranty coverage, duration, exclusions, and service responsibility must be
-confirmed from the applicable sales contract, regional warranty policy, and
-mandatory local consumer law before purchase or service.
+Based on the [current user manual](../manuals/text/manual-en.md), updated from the supplied EN / TR / DE manual on 2026-11-12. Confirm the installed model and product rating label before use.
 
-## Prepare Before Requesting Service
+## WARRANTY AND SERVICE TERMS
 
-- Product model and serial number
-- Purchase date and seller
-- Displayed fault code
-- Flashing position indicator
-- Clear photos or video
-- Description of the operating conditions
+Warranty duration and service coverage are defined by the sales contract, invoice or warranty document supplied with the product. Mandatory rights under local law remain unaffected.
 
-Tiles, playing cloth, and outer trim may be wear items, subject to the delivery
-condition and local consumer law. Unauthorized disassembly, modification, or
-repair may affect warranty coverage.
+- Keep proof of purchase, the warranty document and the product serial number.
+- Defects caused by manufacturing or material faults are handled according to the applicable warranty document.
+- Service outside the warranty may include labour, travel and replacement-part charges.
+- Tiles, outer trim and playing-surface fabric are wear items unless the applicable warranty states otherwise.
+
+### Typical exclusions
+
+- Warranty period expired or proof of coverage unavailable.
+- Serial number or warranty information altered, removed or mismatched.
+- Damage caused by incorrect transport, installation, use, cleaning, maintenance or storage.
+- Damage caused by unauthorised dismantling, repair or modification.
+- Damage caused by unsuitable power, temperature, humidity, liquid ingress or events outside reasonable control.
+
+## Requesting support
+
+Provide the model, serial number, proof of purchase, displayed fault code, flashing position indicator, and a clear photo or video of the issue.
 
 ---
 

@@ -1,28 +1,33 @@
 # Automatic OKEY Table Fault Codes
 
-The current OTOKEY controller uses the tens digit for the component group and
-the units digit for the side. The position indicator associated with the fault
-also flashes.
+Based on the [current user manual](../manuals/text/manual-en.md), updated from the supplied EN / TR / DE manual on 2026-11-12. Confirm the installed model and product rating label before use.
 
-| Component | Code |
-|---|---:|
-| Center-panel lifting mechanism | 00 |
-| Shuffle panel | 01 |
-| East / South / West / North conveyor | 21 / 22 / 23 / 24 |
-| East / South / West / North sorter | 31 / 32 / 33 / 34 |
-| East / South / West / North approach bridge | 41 / 42 / 43 / 44 |
-| East / South / West / North tumbler | 51 / 52 / 53 / 54 |
+## FAULT CODES
 
-Directions use the service reference orientation and may not match the user's
-seating direction. Use the flashing position indicator to identify the side.
+A fault code identifies the function area to inspect; it does not by itself prove that a component has failed. In code groups 21-54, the last digit identifies the side. The corresponding position indicator flashes. Stop operation if the fault repeats after a restart.
 
-## Before Contacting Support
+For groups 21-54: 1 East · 2 South · 3 West · 4 North
 
-1. Record the fault code and flashing position.
-2. Disconnect power.
-3. Remove only visible foreign objects that can be reached without disassembly.
-4. Reconnect and perform one reset.
-5. If the code returns, stop using the table and contact support.
+| CODE | FAULT AREA |
+|---|---|
+| 00 | Centre-panel lift |
+| 01 | Main turntable |
+| 21 | East transport unit |
+| 22 | South transport unit |
+| 23 | West transport unit |
+| 24 | North transport unit |
+| 31 | East stacking and pushing unit |
+| 32 | South stacking and pushing unit |
+| 33 | West stacking and pushing unit |
+| 34 | North stacking and pushing unit |
+| 41 | East tile-lift unit |
+| 42 | South tile-lift unit |
+| 43 | West tile-lift unit |
+| 44 | North tile-lift unit |
+| 51 | East rotary-base unit |
+| 52 | South rotary-base unit |
+| 53 | West rotary-base unit |
+| 54 | North rotary-base unit |
 
 ---
 

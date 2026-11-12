@@ -1,5 +1,9 @@
 # Avtomatik Okey Masası - İstifadə və Dəstək
 
+> **Əvvəlki nəşr (iyul 2026).** Bu mətn 2026-11-12 tarixində təqdim edilmiş yeni mənbəyə uyğun yenilənməyib. İstifadə, diaqnostika, texniki qulluq və zəmanət məlumatları üçün cari [Türkçe](../../manuals/text/manual-tr.md), [English](../../manuals/text/manual-en.md) və ya [Deutsch](../../manuals/text/manual-de.md) təlimatından istifadə edin.
+>
+> **Superseded edition (July 2026).** The supplied replacement manual contains English, Turkish and German only. This Azerbaijani text has not been updated and must not be used as the current operating or warranty reference.
+
 Bu səhifədə INEAN PLAY
 [avtomatik okey masası](https://ineanplay.com/), OKEY və 101 rejimi,
 idarəetmə,

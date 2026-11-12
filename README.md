@@ -17,12 +17,25 @@ and multilingual support resources for INEAN PLAY
 
 ## User Manuals
 
+Updated on **2026-11-12** from the supplied 52-page white-label A5 manual.
+English, Turkish and German online manuals and PDF downloads now follow that source.
+
+[Download the complete illustrated EN / TR / DE manual](manuals/pdf/Automatic_OKEY_Table_User_Manual_EN-TR-DE.pdf).
+The individual language PDFs retain the source's printed page numbers and contents references.
+The [source manifest](manuals/source-manifest.json) records the source checksum and language page ranges.
+
 | Language | Text | Searchable PDF |
 |---|---|---|
 | English | [Read online](manuals/text/manual-en.md) | [Download](manuals/pdf/INEAN_PLAY_OTOKEY_User_Manual_EN.pdf) |
 | Deutsch | [Online lesen](manuals/text/manual-de.md) | [PDF](manuals/pdf/INEAN_PLAY_OTOKEY_User_Manual_DE.pdf) |
 | Türkçe | [Çevrim içi oku](manuals/text/manual-tr.md) | [PDF](manuals/pdf/INEAN_PLAY_OTOKEY_User_Manual_TR.pdf) |
-| Azərbaycan dili | [Onlayn oxu](manuals/text/manual-az.md) | [PDF](manuals/pdf/INEAN_PLAY_OTOKEY_User_Manual_AZ.pdf) |
+
+### Previous Azerbaijani edition
+
+The supplied source does not include Azerbaijani. The [July 2026 text](manuals/text/manual-az.md)
+and [PDF](manuals/pdf/INEAN_PLAY_OTOKEY_User_Manual_AZ.pdf) are retained as **superseded reference material**;
+they have not been updated to the current source. Use the current English, Turkish or German manual
+for operation, diagnostics, maintenance and warranty information.
 
 ## Localized Guides
 

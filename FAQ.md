@@ -20,19 +20,21 @@ thickness, weight, or magnetic configuration can cause sorting errors and jams.
 ## How do I switch between OKEY and 101 mode?
 
 On supported models, place the table in the reset state and hold the Mode button
-for approximately five seconds. Confirm the mode shown on the status display.
+for 5 seconds. A beep sounds and the display changes between OKEY and 101.
+Repeat the 5-second press to switch back.
 See [OKEY and 101 Mode Selection](docs/okey-and-101-modes.md).
 
 ## What should I do when a fault code appears?
 
 Stop loading tiles, note the displayed code and flashing position indicator,
 then consult the [Fault Code Guide](docs/fault-codes.md). Disconnect power before
-removing any visible foreign object. Do not disassemble the table.
+inspection by qualified personnel. Stop operation if the fault repeats after a restart.
+Do not disassemble the table; a code identifies an area to inspect, not a confirmed failed part.
 
 ## How should the playing cloth and tiles be cleaned?
 
 Disconnect power first. Use a clean soft brush on the playing cloth. Apply only
-a manufacturer-approved, residue-free cleaner to a cloth, never directly into
+a manufacturer-approved, non-corrosive surface cleaner to a cloth, never directly into
 the table. See [Cleaning and Maintenance](docs/maintenance.md).
 
 ## Where can I find current product availability?

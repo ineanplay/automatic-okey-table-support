@@ -1,174 +1,242 @@
-# INEAN PLAY OTOKEY - Automatic OKEY Table - User Manual
+# Automatic OKEY Table - User Manual
 
-Read this manual before installation, operation, cleaning, or servicing.
+Read this manual completely before installation, operation, cleaning or servicing.
 
-_Edition - July 2026_
+_Updated on 2026-11-12 from the supplied white-label A5 manual, English pages 2-18. The text follows the source; the original PDF contains the complete illustrated layout._
 
-## 1. Important safety information
+[Complete illustrated manual (EN / TR / DE)](../pdf/Automatic_OKEY_Table_User_Manual_EN-TR-DE.pdf) | [English PDF](../pdf/INEAN_PLAY_OTOKEY_User_Manual_EN.pdf)
 
-Use the table only as described in this manual. Keep this manual with the product and provide it to the next owner or operator.
+## Contents
 
-- Use only accessories and magnetic OKEY tiles approved for the specific model. Incorrect tiles may jam or damage the mechanism.
-- Do not disassemble, modify, or repair the table unless you are an authorized service technician.
-- Connect the table only to a properly grounded outlet that matches the voltage and frequency on the product nameplate.
-- For 220 V models, operation outside 175-235 V requires an approved voltage stabilizer. The nameplate and local electrical rules take precedence.
-- Keep the table upright and stable during transport. Do not turn it upside down, drop it, or move it while tiles are inside the mechanism.
-- Disconnect power before cleaning. Do not pour or spray water or cleaner into openings, motors, sensors, or electronic parts.
-- Remove coins, lighters, cigarette ends, and other small objects before operation. Stop immediately if a foreign object enters the table.
-- Keep sharp objects away from the playing cloth and tile surfaces.
-- Store the table away from direct sunlight, excessive heat, and high humidity.
-- If the power cord is damaged, stop using the table and contact INEAN PLAY or an authorized service provider.
+- [01 SAFETY AND INTENDED USE](#section-01)
+- [02 PRODUCT OVERVIEW](#section-02)
+- [03 MAIN UNIT COMPONENTS](#section-03)
+- [04 CONTROL PANEL](#section-04)
+- [05 POWER ON / OFF](#section-05)
+- [06 BASIC OPERATION](#section-06)
+- [07 OKEY / 101 MODE](#section-07)
+- [08 SERVICE DIAGNOSTICS](#section-08)
+- [09 FAULT CODES](#section-09)
+- [10 MAINTENANCE SCHEDULE](#section-10)
+- [11 SURFACE AND TILE CARE](#section-11)
+- [12 INTERIOR MAINTENANCE](#section-12)
+- [13 WARRANTY AND SERVICE TERMS](#section-13)
 
-### Safety and legal notice
+<a id="section-01"></a>
 
-Failure to follow these instructions may cause injury or product damage and may affect warranty coverage to the extent permitted by law. This manual does not limit mandatory consumer rights.
+## 01 SAFETY AND INTENDED USE
 
-## 2. Product overview
+For safe, reliable operation, observe all instructions below and the product rating label.
 
-The automatic OKEY table consists of the main unit, outer frame, and base or legs. Model appearance and base design may vary. The main unit combines an electronic control system with mechanical tile collection, shuffling, sorting, and delivery systems.
+- Use only compatible tiles, accessories and replacement parts approved for this model.
+- Do not dismantle, modify or repair the machine yourself. Internal work is for qualified service personnel only.
+- Connect to a grounded outlet that complies with local electrical rules and the voltage/frequency shown on the product rating label.
+- If the mains supply is unstable, use suitable voltage-protection equipment. Do not operate outside the product rating.
+- Transport the machine upright and stable. Do not invert, drop or subject it to impact.
+- Do not wash the tabletop or interior with water. Keep liquids away from electrical parts.
+- Prevent lighters, cigarette ends, coins and other small objects from entering the machine.
+- Do not scratch the playing surface or tiles with sharp objects.
+- For long storage, disconnect power and avoid direct sunlight, excessive heat and high humidity.
+- If a fault occurs, stop use and disconnect power before inspection by qualified personnel.
+- A damaged power cord must be replaced by qualified personnel using a suitable cord.
 
-### Main components
+> **IMPORTANT**
+> Use the tile set specified for the machine. Incorrect tile size, weight or magnetic properties may cause jams, sorting errors or damage. Appearance and controls may vary by model; the actual product takes precedence.
 
-- Outer frame
-- Sorting guide
-- Shuffle panel
-- Dice-tray assembly
-- Conveyor assembly
-- Tumbler
-- Sorter assembly
+<a id="section-02"></a>
 
-Illustrations are representative. Use the controls and labels on the product you purchased.
+## 02 PRODUCT OVERVIEW
 
-## 3. Control panel
+The product consists of the main table unit, an outer frame and a supporting base. Depending on the model, the base may use four legs or a mobile pedestal. Two compatible OKEY tile sets may be supplied.
 
-- Power button: press and hold to turn the controller on or off.
-- Mode button: displays and changes the configured game mode while the table is in the reset state.
-- Panel up/down buttons: raise or lower the center panel. Both buttons together pause shuffling and raise the panel on supported models.
-- Dice buttons: roll the dice and indicate the dealer position. Two diagonally opposite dice buttons enter the reset state.
-- Status display: shows the active mode or a fault code.
-- Position indicators: identify the active dealer position or the side associated with a fault.
+![PRODUCT OVERVIEW](../images/product-overview.png)
 
-## 4. Basic operation
+Illustrations show typical configurations. Shape, finish and structure may differ by model.
 
-### Power on and off
+<a id="section-03"></a>
 
-1. Make sure the table is stable, the center panel is closed, and no foreign objects are present.
-2. Connect the power cable to the correct grounded outlet.
-3. Press and hold the Power button for about 5 seconds to turn the controller on. Press and hold it again for about 5 seconds to turn it off.
-4. If the table remains in the reset state without operation for more than 30 minutes, supported models switch off automatically.
+## 03 MAIN UNIT COMPONENTS
 
-### Playing and resetting
+The main unit combines electronic control and mechanical handling systems. The numbered diagram identifies the principal assemblies.
 
-1. In the reset state, press either Panel Up/Down button once to raise the center panel. Press either button again to lower it.
-2. Place only the approved tile set into the opening. Keep hands, clothing, and other objects away from the opening while it closes.
-3. During shuffling, press both Panel Up/Down buttons together to pause and raise the panel on supported models. Press one Panel Up/Down button to lower the panel and resume.
-4. Press the Dice button facing the dealer position to roll the dice and illuminate that position.
-5. To return to the reset state, press and hold two diagonally opposite Dice buttons for about 3 seconds.
+![MAIN UNIT COMPONENTS](../images/main-unit-components.png)
 
-## 5. Selecting OKEY or 101 mode
+| Number | Component |
+|---|---|
+| 1 | Outer frame |
+| 2 | Sorting guide |
+| 3 | Shuffle tray |
+| 4 | Dice-tray assembly |
+| 5 | Conveyor assembly |
+| 6 | Rotating tray |
+| 7 | Sorting assembly |
 
-1. Put the table in the reset state.
-2. Press and hold the Mode button for about 5 seconds. A beep sounds and the current mode appears on the status display.
-3. Press and hold the Mode button again for about 5 seconds to switch between OKEY and 101 on supported models.
-4. Confirm the displayed mode before loading tiles. Do not assume every model or tile set supports both modes.
+<a id="section-04"></a>
 
-## 6. Service diagnostic mode
+## 04 CONTROL PANEL
 
-**For trained service personnel only. Keep users, loose clothing, and objects away from moving parts during testing.**
+Button layout may differ by model. Confirm the symbols on the installed panel before use.
 
-In the reset state, press and hold all four Dice buttons for about 3 seconds to enter single-step diagnostics. Repeat the action to exit after testing.
+![CONTROL PANEL](../images/control-panel.jpg)
 
-- Mode 0 - center-panel lifting mechanism
-- Mode 1 - shuffle-panel mechanism
-- Mode 2 - conveyor assemblies
-- Mode 3 - sorter assemblies
-- Mode 4 - approach bridges
-- Mode 5 - tumbler assemblies
-- Mode 6 - dice-tray motor and buzzer
-- Mode 7 - component endurance/aging test; authorized factory service only
+| Number | Control |
+|---|---|
+| 1 | Power button |
+| 2 | Mode button |
+| 3 | Dice tray |
+| 4 | Panel up/down buttons |
+| 5 | Dice-roll buttons |
+| 6 | Status display |
+| 7 | Position indicators |
 
-## 7. Fault codes
+<a id="section-05"></a>
 
-The tens digit identifies the component group and the units digit identifies the side. The corresponding position indicator also flashes. Example: code 21 indicates the conveyor on side 1.
+## 05 POWER ON / OFF
 
-**The east/south/west/north labels use the service reference orientation and may not match the user's seating direction. Use the flashing indicator to identify the affected side.**
+- Press and hold the power button for 5 seconds to switch the machine on or off.
+- To restart from a reset, shuffling or alarm state: hold for 5 seconds to switch off, then hold again for 5 seconds to switch on.
 
-| Component | Code |
-|---|---:|
-| Center-panel lifting mechanism | 00 |
-| Shuffle panel | 01 |
-| East conveyor | 21 |
-| South conveyor | 22 |
-| West conveyor | 23 |
-| North conveyor | 24 |
-| East sorter | 31 |
-| South sorter | 32 |
-| West sorter | 33 |
-| North sorter | 34 |
-| East approach bridge | 41 |
-| South approach bridge | 42 |
-| West approach bridge | 43 |
-| North approach bridge | 44 |
-| East tumbler | 51 |
-| South tumbler | 52 |
-| West tumbler | 53 |
-| North tumbler | 54 |
+When the machine remains in the reset state with no operation for 30 minutes, it switches off automatically.
 
-## 8. Maintenance
+<a id="section-06"></a>
 
-### Recommended schedule
+## 06 BASIC OPERATION
 
-- After use: remove foreign objects and wipe visible dust with a dry, soft cloth.
-- As needed: clean the playing cloth and tile surfaces using the procedures below.
-- Every three months: inspect the cloth, frame, cable, moving covers, and tile path. Increase frequency for commercial use.
-- Professional service: arrange according to operating hours, repeated fault codes, unusual noise, or local support guidance.
+### 01 Raise / lower the panel
 
-### Playing-cloth care
+In the reset state, press an up/down button once to raise the centre panel; press it again to lower the panel. During shuffling, press two opposite up/down buttons together to raise the panel and pause. Press one up/down button again to lower the panel and resume.
 
-Disconnect power. Remove the detachable border only if the model permits it. Brush the cloth gently in one direction with a clean, soft brush. Do not soak the cloth. If an edge lifts or wrinkles, stop using the table and contact support unless INEAN PLAY has supplied an approved adhesive and repair procedure.
+### 02 Roll the dice
 
-### Tile cleaning
+Press the dice-roll button at the required player position. Its position indicator lights and the dice motor runs.
 
-Arrange the tiles on a clean, flat surface. Apply a small amount of manufacturer-approved, residue-free cleaner to a soft cloth - never directly to the tiles or machine. Wipe every face, then dry completely at room temperature. Use a soft toothbrush on engraved areas without scrubbing away the printed finish. Do not use laundry detergent, dishwashing liquid, abrasive cleaner, solvent, furniture polish, or heat from a hair dryer.
+### 03 Return to reset
 
-### Interior cleaning
+Press and hold two diagonally opposite dice-roll buttons together for 3 seconds.
 
-Users may clean only accessible areas after disconnecting power. Use a soft brush or low-suction vacuum without touching wiring, sensors, belts, or moving assemblies. Internal cleaning, lubrication, adjustment, and disassembly must be performed by trained service personnel using approved products. Never use furniture polish as a lubricant.
+<a id="section-07"></a>
 
-## 9. Limited warranty
+## 07 OKEY / 101 MODE
 
-This manual describes a one-year limited warranty from the date of sale. The applicable sales contract, regional warranty policy, and mandatory consumer law take precedence.
+1. Place the machine in the reset state.
+2. Press and hold the Mode button for 5 seconds.
+3. A beep sounds and the display changes between OKEY and 101.
+4. Repeat the 5-second press to switch back.
 
-1. Keep the purchase receipt, serial number, and any warranty certificate supplied with the product.
-2. During the applicable warranty period, confirmed manufacturing defects are handled through the seller or an authorized service provider under the regional policy.
-3. Services outside warranty may include labor, travel, and replacement-part charges.
-4. Tiles, outer trim, and playing cloth are wear items unless a defect existed at delivery or local law provides otherwise.
+<a id="section-08"></a>
 
-### Common exclusions, subject to local law
+## 08 SERVICE DIAGNOSTICS
 
-- Damage after the applicable warranty period.
-- Serial-number removal or unauthorized alteration of product records.
-- Damage caused by incorrect transport, installation, voltage, use, cleaning, maintenance, or storage.
-- Damage caused by unauthorized disassembly, modification, or repair.
-- Damage caused by external events such as unstable power, abnormal temperature or humidity, liquid ingress, or force majeure.
+> IMPORTANT: Diagnostic mode operates internal mechanisms. Use it only for trained inspection with the playing area clear.
 
-## 10. Support
+In the reset state, hold all four dice-roll buttons together for 3 seconds to enter the test. To exit, hold all four buttons together again; the machine returns to shuffling.
 
-For model confirmation, parts, fault-code assistance, warranty service, or approved cleaning products, contact INEAN PLAY.
+- 0 - centre-panel lift
+- 1 - main turntable
+- 2 - transport units on all four sides
+- 3 - stacking and pushing units on all four sides
+- 4 - tile-lift units on all four sides
+- 5 - rotary-base / tile-pushing units on all four sides
+- 6 - dice motor and buzzer
+- 7 - automatic endurance test
 
-- Email: service@ineanplay.com
-- Website: https://ineanplay.com
+<a id="section-09"></a>
 
-When requesting service, provide the model, serial number, purchase date, displayed fault code, and a clear photo or video.
+## 09 FAULT CODES
+
+A fault code identifies the function area to inspect; it does not by itself prove that a component has failed. In code groups 21-54, the last digit identifies the side. The corresponding position indicator flashes. Stop operation if the fault repeats after a restart.
+
+For groups 21-54: 1 East · 2 South · 3 West · 4 North
+
+| CODE | FAULT AREA |
+|---|---|
+| 00 | Centre-panel lift |
+| 01 | Main turntable |
+| 21 | East transport unit |
+| 22 | South transport unit |
+| 23 | West transport unit |
+| 24 | North transport unit |
+| 31 | East stacking and pushing unit |
+| 32 | South stacking and pushing unit |
+| 33 | West stacking and pushing unit |
+| 34 | North stacking and pushing unit |
+| 41 | East tile-lift unit |
+| 42 | South tile-lift unit |
+| 43 | West tile-lift unit |
+| 44 | North tile-lift unit |
+| 51 | East rotary-base unit |
+| 52 | South rotary-base unit |
+| 53 | West rotary-base unit |
+| 54 | North rotary-base unit |
+
+<a id="section-10"></a>
+
+## 10 MAINTENANCE SCHEDULE
+
+1. **After installation / during the first 3 months**. Inspect regularly. Keep the tabletop and compatible tiles clean and dry.
+2. **Every 3 months**. Carry out a complete cleaning of the frame, surface fabric and shuffle area. Increase frequency in dusty or high-use locations.
+3. **At least 3 times per year**. Arrange comprehensive inspection and maintenance appropriate to usage and local conditions.
+
+### SURFACE FABRIC
+
+Disconnect power. Remove the removable border only if the model permits. With a clean, soft-bristled brush, brush the fabric gently in one direction until dust is removed. Do not soak, scrape or use a stiff brush.
+
+![SURFACE FABRIC](../images/surface-fabric.png)
+
+Illustrations show typical configurations. Shape, finish and structure may differ by model.
+
+<a id="section-11"></a>
+
+## 11 SURFACE AND TILE CARE
+
+1. If a fabric edge or corner lifts, stop use. Apply only a small amount of adhesive that is compatible with the fabric and substrate, then press flat until secure. If suitability is uncertain, use qualified service.
+
+![SURFACE AND TILE CARE](../images/fabric-edge-care.jpg)
+
+2. Arrange the tiles on a clean, flat surface. Lightly dampen a clean cloth with a manufacturer-approved, non-corrosive surface cleaner and wipe all six faces. Never spray cleaner directly into the machine.
+
+![SURFACE AND TILE CARE](../images/tile-cleaning.jpg)
+
+3. For engraved faces, use a slightly damp, soft-bristled brush with light pressure. Do not scrub hard enough to remove paint. Dry fully with a soft cloth or cool airflow before loading.
+
+![SURFACE AND TILE CARE: do not use Laundry powder or Dish detergent](../images/engraved-tile-care.jpg)
+
+> **IMPORTANT**
+> Do not use laundry powder, dishwashing liquid, abrasive cleaners, solvents or aggressive chemicals. These may damage printing, surface finish or magnetic properties.
+
+<a id="section-12"></a>
+
+## 12 INTERIOR MAINTENANCE
+
+1. Disconnect the power plug before opening any service-access area.
+2. Remove loose dust from the shuffle area with a low-suction vacuum or a soft brush.
+3. Do not move, bend or force electrical or mechanical components while cleaning.
+4. Keep tile-contact and sliding areas clean. Use only the lubricant type and quantity specified for the model.
+5. Do not apply surface cleaner to internal parts. If debris cannot be removed safely, arrange qualified service.
+
+<a id="section-13"></a>
+
+## 13 WARRANTY AND SERVICE TERMS
+
+Warranty duration and service coverage are defined by the sales contract, invoice or warranty document supplied with the product. Mandatory rights under local law remain unaffected.
+
+- Keep proof of purchase, the warranty document and the product serial number.
+- Defects caused by manufacturing or material faults are handled according to the applicable warranty document.
+- Service outside the warranty may include labour, travel and replacement-part charges.
+- Tiles, outer trim and playing-surface fabric are wear items unless the applicable warranty states otherwise.
+
+### Typical exclusions
+
+- Warranty period expired or proof of coverage unavailable.
+- Serial number or warranty information altered, removed or mismatched.
+- Damage caused by incorrect transport, installation, use, cleaning, maintenance or storage.
+- Damage caused by unauthorised dismantling, repair or modification.
+- Damage caused by unsuitable power, temperature, humidity, liquid ingress or events outside reasonable control.
 
 ---
 
-## Official INEAN PLAY Links
+## Official INEAN PLAY support
 
-- Website: [ineanplay.com](https://ineanplay.com/)
-- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)
-- Facebook: [INEAN PLAY](https://www.facebook.com/profile.php?id=61585370578775)
-- Instagram: [@ineanplay](https://www.instagram.com/ineanplay/)
-- TikTok: [@ineanplay](https://www.tiktok.com/@ineanplay)
-- YouTube: [@ineanplay](https://www.youtube.com/@ineanplay)
-- Support: [service@ineanplay.com](mailto:service@ineanplay.com)
+- [ineanplay.com](https://ineanplay.com/)
+- [service@ineanplay.com](mailto:service@ineanplay.com)
+- [WhatsApp: +86 173 7839 0199](https://wa.me/8617378390199)

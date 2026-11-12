@@ -1,26 +1,43 @@
 # Control Panel and Basic Operation
 
-## Main Controls
+Based on the [current user manual](../manuals/text/manual-en.md), updated from the supplied EN / TR / DE manual on 2026-11-12. Confirm the installed model and product rating label before use.
 
-- **Power:** hold for approximately five seconds to switch the controller on or off.
-- **Mode:** displays or changes the configured game mode in the reset state.
-- **Panel Up/Down:** raises or lowers the center panel.
-- **Dice buttons:** roll the dice, identify the dealer position, and enter reset.
-- **Status display:** shows the selected mode or a fault code.
-- **Position indicators:** show the dealer or the side associated with a fault.
+## CONTROL PANEL
 
-## Starting a Game
+Button layout may differ by model. Confirm the symbols on the installed panel before use.
 
-1. Confirm that the table is stable and connected to the correct grounded outlet.
-2. Turn the controller on and confirm the selected game mode.
-3. Raise the center panel and load only the approved tile set.
-4. Keep hands, clothing, and other objects away while the panel closes.
-5. Use the appropriate Dice button to select the dealer position and roll.
+![CONTROL PANEL](../manuals/images/control-panel.jpg)
 
-## Reset State
+| Number | Control |
+|---|---|
+| 1 | Power button |
+| 2 | Mode button |
+| 3 | Dice tray |
+| 4 | Panel up/down buttons |
+| 5 | Dice-roll buttons |
+| 6 | Status display |
+| 7 | Position indicators |
 
-On the control panel shown in the current manual, hold two diagonally opposite
-Dice buttons for approximately three seconds. Control-panel layouts may vary.
+## POWER ON / OFF
+
+- Press and hold the power button for 5 seconds to switch the machine on or off.
+- To restart from a reset, shuffling or alarm state: hold for 5 seconds to switch off, then hold again for 5 seconds to switch on.
+
+When the machine remains in the reset state with no operation for 30 minutes, it switches off automatically.
+
+## BASIC OPERATION
+
+### 01 Raise / lower the panel
+
+In the reset state, press an up/down button once to raise the centre panel; press it again to lower the panel. During shuffling, press two opposite up/down buttons together to raise the panel and pause. Press one up/down button again to lower the panel and resume.
+
+### 02 Roll the dice
+
+Press the dice-roll button at the required player position. Its position indicator lights and the dice motor runs.
+
+### 03 Return to reset
+
+Press and hold two diagonally opposite dice-roll buttons together for 3 seconds.
 
 ---
 
