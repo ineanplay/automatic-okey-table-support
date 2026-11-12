@@ -42,3 +42,15 @@ Modele özel bilgi için [INEAN PLAY ile iletişime geçin](https://ineanplay.co
 - [Kullanım kılavuzu](../../../manuals/text/manual-tr.md)
 
 _Son güncelleme: 2026-11-12._
+
+---
+
+## Resmi INEAN PLAY bağlantıları
+
+- Web sitesi: [ineanplay.com](https://ineanplay.com/)
+- E-posta: [service@ineanplay.com](mailto:service@ineanplay.com)
+- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)
+- Facebook: [INEAN PLAY](https://www.facebook.com/profile.php?id=61585370578775)
+- Instagram: [@ineanplay](https://www.instagram.com/ineanplay/)
+- TikTok: [@ineanplay](https://www.tiktok.com/@ineanplay)
+- YouTube: [@ineanplay](https://www.youtube.com/@ineanplay)

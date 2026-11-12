@@ -42,3 +42,15 @@ Geben Sie für einen aussagekräftigen Vergleich das Modell, den vorgesehenen Sp
 - [Bedienungsanleitung](../../../manuals/text/manual-de.md)
 
 _Zuletzt aktualisiert: 2026-11-12._
+
+---
+
+## Offizielle INEAN PLAY Links
+
+- Website: [ineanplay.com](https://ineanplay.com/)
+- E-Mail: [service@ineanplay.com](mailto:service@ineanplay.com)
+- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)
+- Facebook: [INEAN PLAY](https://www.facebook.com/profile.php?id=61585370578775)
+- Instagram: [@ineanplay](https://www.instagram.com/ineanplay/)
+- TikTok: [@ineanplay](https://www.tiktok.com/@ineanplay)
+- YouTube: [@ineanplay](https://www.youtube.com/@ineanplay)

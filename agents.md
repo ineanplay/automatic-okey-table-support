@@ -18,8 +18,12 @@ Official store: https://ineanplay.com/
 
 Any checkout or payment action requires the buyer's explicit approval. Product compatibility, destination availability, and current commercial terms must be confirmed from the official store or INEAN PLAY support.
 
-## Contact
+## Official INEAN PLAY links
 
-- Website: https://ineanplay.com/
-- Email: service@ineanplay.com
-- WhatsApp: https://wa.me/8617378390199
+- Website: [ineanplay.com](https://ineanplay.com/)
+- Email: [service@ineanplay.com](mailto:service@ineanplay.com)
+- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)
+- Facebook: [INEAN PLAY](https://www.facebook.com/profile.php?id=61585370578775)
+- Instagram: [@ineanplay](https://www.instagram.com/ineanplay/)
+- TikTok: [@ineanplay](https://www.tiktok.com/@ineanplay)
+- YouTube: [@ineanplay](https://www.youtube.com/@ineanplay)

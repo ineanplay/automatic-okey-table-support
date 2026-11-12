@@ -235,8 +235,12 @@ Garantiedauer und Serviceumfang ergeben sich aus Kaufvertrag, Rechnung oder der 
 
 ---
 
-## Offizieller INEAN PLAY Support
+## Offizielle INEAN PLAY Links
 
-- [ineanplay.com](https://ineanplay.com/)
-- [service@ineanplay.com](mailto:service@ineanplay.com)
-- [WhatsApp: +86 173 7839 0199](https://wa.me/8617378390199)
+- Website: [ineanplay.com](https://ineanplay.com/)
+- E-Mail: [service@ineanplay.com](mailto:service@ineanplay.com)
+- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)
+- Facebook: [INEAN PLAY](https://www.facebook.com/profile.php?id=61585370578775)
+- Instagram: [@ineanplay](https://www.instagram.com/ineanplay/)
+- TikTok: [@ineanplay](https://www.tiktok.com/@ineanplay)
+- YouTube: [@ineanplay](https://www.youtube.com/@ineanplay)
