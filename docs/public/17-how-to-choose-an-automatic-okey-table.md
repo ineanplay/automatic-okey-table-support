@@ -14,6 +14,13 @@ Choose an automatic OKEY table by checking these factors:
 
 OTOKEY is the fixed-frame option; OTOKEY-F is the foldable option. The right choice depends on confirmed space, handling, and operating requirements.
 
+## View products and request a quote
+
+- [Standard automatic OKEY table](https://ineanplay.com/products/inean-otokey)
+- [Folding automatic OKEY table](https://ineanplay.com/products/inean-otokey-f)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official contact
 
 - Website: [ineanplay.com](https://ineanplay.com/)

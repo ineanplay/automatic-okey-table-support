@@ -26,6 +26,13 @@ OKEY- und 101-Modus, Bedienung, Fehlercodes, Reinigung und Wartung.
 
 ---
 
+## Produkte ansehen und Angebot anfordern
+
+- [Automatischer OKEY-Tisch mit festem Untergestell](https://ineanplay.com/products/inean-otokey)
+- [Klappbarer automatischer OKEY-Tisch](https://ineanplay.com/products/inean-otokey-f)
+
+[Angebot anfordern](https://ineanplay.com/pages/contact). Geben Sie Modell, Stückzahl sowie Lieferland und -ort an, damit wir ein vollständiges Angebot erstellen können.
+
 ## Offizielle INEAN PLAY Links
 
 - Website: [ineanplay.com](https://ineanplay.com/)

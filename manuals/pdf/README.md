@@ -21,6 +21,13 @@ Updated on **2026-11-12**. See the [source manifest](../source-manifest.json) fo
 
 ---
 
+## View products and request a quote
+
+- [Standard automatic OKEY table](https://ineanplay.com/products/inean-otokey)
+- [Folding automatic OKEY table](https://ineanplay.com/products/inean-otokey-f)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official INEAN PLAY Links
 
 - Website: [ineanplay.com](https://ineanplay.com/)

@@ -239,6 +239,13 @@ Garanti süresi ve servis kapsamı; ürünle verilen satış sözleşmesi, fatur
 
 ---
 
+## Ürünleri inceleyin ve teklif alın
+
+- [Standart otomatik OKEY masası](https://ineanplay.com/products/inean-otokey)
+- [Katlanır otomatik OKEY masası](https://ineanplay.com/products/inean-otokey-f)
+
+[Teklif isteyin](https://ineanplay.com/pages/contact). Eksiksiz bir teklif hazırlayabilmemiz için modeli, adedi ve teslimat ülkesi/şehrini belirtin.
+
 ## Resmi INEAN PLAY bağlantıları
 
 - Web sitesi: [ineanplay.com](https://ineanplay.com/)

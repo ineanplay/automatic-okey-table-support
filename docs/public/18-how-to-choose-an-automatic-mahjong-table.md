@@ -14,6 +14,13 @@ Start by confirming the Mahjong rule set and the exact tile dimensions. Then com
 
 Choose the Standard model for dedicated placement and compare the Folding model when storage flexibility is important. Confirm every technical field with the current product data sheet.
 
+## View products and request a quote
+
+- [Standard automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
+- [Folding automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official contact
 
 - Website: [ineanplay.com](https://ineanplay.com/)

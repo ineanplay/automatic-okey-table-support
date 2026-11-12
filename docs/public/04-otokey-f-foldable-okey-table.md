@@ -10,6 +10,12 @@ Before choosing OTOKEY-F, measure the playing position, folded storage area, doo
 
 Read the [technology guides](../technology/README.md) for the working principle, practical design benefits and selected R&D measurements. Confirm that the selected model uses the described mechanism and features; a base or frame style alone does not establish that every technical figure applies.
 
+## View products and request a quote
+
+- [Folding automatic OKEY table](https://ineanplay.com/products/inean-otokey-f)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official contact
 
 - Website: [ineanplay.com](https://ineanplay.com/)

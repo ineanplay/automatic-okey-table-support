@@ -4,6 +4,13 @@ INEAN PLAY supplies a 108-tile magnetic OKEY / Rummy set for compatible OTOKEY a
 
 A separate set of four player racks is available for OTOKEY-series setups. Confirm table model, tile dimensions, magnet configuration, color, and replacement-part compatibility before ordering accessories.
 
+## View products and request a quote
+
+- [Magnetic OKEY / Rummy tiles](https://ineanplay.com/products/okey-rummy-tiles-for-inean-otokey)
+- [OKEY / Rummy tile racks](https://ineanplay.com/products/okey-rummy-racks-for-inean-otokey)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official contact
 
 - Website: [ineanplay.com](https://ineanplay.com/)

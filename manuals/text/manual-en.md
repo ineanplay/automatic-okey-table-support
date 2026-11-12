@@ -239,6 +239,13 @@ Warranty duration and service coverage are defined by the sales contract, invoic
 
 ---
 
+## View products and request a quote
+
+- [Standard automatic OKEY table](https://ineanplay.com/products/inean-otokey)
+- [Folding automatic OKEY table](https://ineanplay.com/products/inean-otokey-f)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official INEAN PLAY links
 
 - Website: [ineanplay.com](https://ineanplay.com/)

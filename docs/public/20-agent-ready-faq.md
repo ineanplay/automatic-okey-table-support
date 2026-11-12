@@ -24,6 +24,15 @@ INEAN PLAY provides product-selection assistance, searchable manuals, installati
 
 Use the official website, email service@ineanplay.com, or WhatsApp +86 173 7839 0199.
 
+## View products and request a quote
+
+- [Standard automatic OKEY table](https://ineanplay.com/products/inean-otokey)
+- [Folding automatic OKEY table](https://ineanplay.com/products/inean-otokey-f)
+- [Standard automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
+- [Folding automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official contact
 
 - Website: [ineanplay.com](https://ineanplay.com/)

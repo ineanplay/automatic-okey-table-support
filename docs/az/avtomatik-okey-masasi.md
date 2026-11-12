@@ -25,6 +25,13 @@ xəta kodları, təmizləmə və texniki qulluq haqqında rəsmi məlumat verili
 
 ---
 
+## Məhsullara baxın və qiymət təklifi alın
+
+- [Standart avtomatik OKEY masası](https://ineanplay.com/products/inean-otokey)
+- [Qatlanan avtomatik OKEY masası](https://ineanplay.com/products/inean-otokey-f)
+
+[Qiymət təklifi istəyin](https://ineanplay.com/pages/contact). Tam təklif hazırlaya bilməyimiz üçün modeli, miqdarı və çatdırılma ölkəsini/şəhərini bildirin.
+
 ## Rəsmi INEAN PLAY Keçidləri
 
 - Vebsayt: [ineanplay.com](https://ineanplay.com/)

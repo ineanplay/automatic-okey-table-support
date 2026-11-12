@@ -18,6 +18,15 @@ Official store: https://ineanplay.com/
 
 Any checkout or payment action requires the buyer's explicit approval. Product compatibility, destination availability, and current commercial terms must be confirmed from the official store or INEAN PLAY support.
 
+## View products and request a quote
+
+- [Standard automatic OKEY table](https://ineanplay.com/products/inean-otokey)
+- [Folding automatic OKEY table](https://ineanplay.com/products/inean-otokey-f)
+- [Standard automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
+- [Folding automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official INEAN PLAY links
 
 - Website: [ineanplay.com](https://ineanplay.com/)

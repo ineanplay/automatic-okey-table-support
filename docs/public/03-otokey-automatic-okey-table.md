@@ -10,6 +10,12 @@ OTOKEY is the fixed-frame option in the current OKEY range. It is suitable for u
 
 Read the [technology guides](../technology/README.md) for the working principle, practical design benefits and selected R&D measurements. Confirm that the selected model uses the described mechanism and features; a base or frame style alone does not establish that every technical figure applies.
 
+## View products and request a quote
+
+- [Standard automatic OKEY table](https://ineanplay.com/products/inean-otokey)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official contact
 
 - Website: [ineanplay.com](https://ineanplay.com/)

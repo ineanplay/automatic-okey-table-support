@@ -6,6 +6,16 @@ INEAN PLAY provides product information, user manuals, installation and operatio
 
 Customers can use the official website for product information and contact INEAN PLAY directly for model compatibility, destination availability, installation conditions, and after-sales support.
 
+## View products and request a quote
+
+- [Standard automatic OKEY table](https://ineanplay.com/products/inean-otokey)
+- [Folding automatic OKEY table](https://ineanplay.com/products/inean-otokey-f)
+- [Standard automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
+- [Folding automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
+- [All products and accessories](https://ineanplay.com/collections/all)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official contact
 
 - Website: [ineanplay.com](https://ineanplay.com/)

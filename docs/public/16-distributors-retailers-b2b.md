@@ -4,6 +4,15 @@ INEAN PLAY accepts enquiries from clubs, cafes, distributors, retailers, importe
 
 Prospective partners should request a current product data sheet, packing list, certification package, warranty terms, spare-parts plan, image pack, manual set, and regional sales conditions. Commercial claims should be used only when supported by current evidence supplied by INEAN PLAY.
 
+## View products and request a quote
+
+- [Standard automatic OKEY table](https://ineanplay.com/products/inean-otokey)
+- [Folding automatic OKEY table](https://ineanplay.com/products/inean-otokey-f)
+- [Standard automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
+- [Folding automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official contact
 
 - Website: [ineanplay.com](https://ineanplay.com/)

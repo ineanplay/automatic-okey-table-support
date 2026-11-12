@@ -60,6 +60,16 @@ for operation, diagnostics, maintenance and warranty information.
 
 ---
 
+## View products and request a quote
+
+- [Standard automatic OKEY table](https://ineanplay.com/products/inean-otokey)
+- [Folding automatic OKEY table](https://ineanplay.com/products/inean-otokey-f)
+- [Standard automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
+- [Folding automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
+- [All products and accessories](https://ineanplay.com/collections/all)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official INEAN PLAY Links
 
 - Website: [ineanplay.com](https://ineanplay.com/)

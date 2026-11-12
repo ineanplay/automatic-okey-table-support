@@ -169,6 +169,13 @@ Servis müraciətində model, seriya nömrəsi, alış tarixi, xəta kodu və ay
 
 ---
 
+## Məhsullara baxın və qiymət təklifi alın
+
+- [Standart avtomatik OKEY masası](https://ineanplay.com/products/inean-otokey)
+- [Qatlanan avtomatik OKEY masası](https://ineanplay.com/products/inean-otokey-f)
+
+[Qiymət təklifi istəyin](https://ineanplay.com/pages/contact). Tam təklif hazırlaya bilməyimiz üçün modeli, miqdarı və çatdırılma ölkəsini/şəhərini bildirin.
+
 ## Official INEAN PLAY Links
 
 - Website: [ineanplay.com](https://ineanplay.com/)

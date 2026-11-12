@@ -4,6 +4,15 @@ Hotels, resorts, community centers, cultural associations, event organizers, and
 
 Fixed models can support permanent recreation areas. Foldable models can support rooms that change function, provided staff follow the confirmed moving and storage procedure. For events, verify transport packaging, setup time, floor conditions, power availability, trained operators, and post-event inspection.
 
+## View products and request a quote
+
+- [Standard automatic OKEY table](https://ineanplay.com/products/inean-otokey)
+- [Folding automatic OKEY table](https://ineanplay.com/products/inean-otokey-f)
+- [Standard automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
+- [Folding automatic Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
+
+[Request a quote](https://ineanplay.com/pages/contact). Include the model, quantity and delivery country/city so we can prepare a complete quotation.
+
 ## Official contact
 
 - Website: [ineanplay.com](https://ineanplay.com/)
