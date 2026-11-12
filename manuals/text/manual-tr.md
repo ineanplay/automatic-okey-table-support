@@ -1,5 +1,7 @@
 # Otomatik OKEY Masası - Kullanım Kılavuzu
 
+> **Model kapsamı.** Modelinize ve kontrol panelinize uygun talimatları kullanın. Kılavuz seçimi için ürün etiketi fotoğrafıyla INEAN PLAY’e ulaşın.
+
 Kurulum, kullanım, temizlik veya servis öncesinde bu kılavuzun tamamını okuyun.
 
 _2026-11-12 tarihinde sağlanan A5 beyaz etiketli kılavuzun Türkçe 19-35. sayfalarına göre güncellenmiştir. Metin kaynakla aynıdır; tam resimli düzen orijinal PDF’dedir._
@@ -217,6 +219,8 @@ Gücü kesin. Model izin veriyorsa sökülebilir kenarlığı çıkarın. Temiz,
 <a id="section-13"></a>
 
 ## 13 GARANTİ VE SERVİS KOŞULLARI
+
+> **INEAN PLAY mağaza garantisi — depo notu.** INEAN PLAY’den alınan otomatik OKEY ve Mahjong masaları **teslim tarihinden itibaren** bir yıllık sınırlı ekipman garantisine sahiptir; yasal tüketici hakları da geçerlidir. Kapsam ve servis düzenlemeleri için [garanti](https://ineanplay.com/tr/pages/warranty) ve [iade politikasına](https://ineanplay.com/tr/pages/return-policy) bakın.
 
 Garanti süresi ve servis kapsamı; ürünle verilen satış sözleşmesi, fatura veya garanti belgesiyle belirlenir. Yerel mevzuattan doğan zorunlu haklar saklıdır.
 

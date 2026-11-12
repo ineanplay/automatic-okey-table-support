@@ -1,5 +1,7 @@
 # Current PDF User Manuals
 
+> **Model applicability.** Use instructions matching your model and control panel. Contact INEAN PLAY with a nameplate photo for help choosing the guide.
+
 The current English, Turkish and German PDFs reproduce the corresponding pages of the supplied white-label A5 manual without reflow.
 
 - [Complete illustrated EN / TR / DE manual](Automatic_OKEY_Table_User_Manual_EN-TR-DE.pdf) - all 52 pages, identical to the supplied source
@@ -13,7 +15,9 @@ Updated on **2026-11-12**. See the [source manifest](../source-manifest.json) fo
 
 ### Previous Azerbaijani edition
 
-[Azərbaycan dili - July 2026 PDF](INEAN_PLAY_OTOKEY_User_Manual_AZ.pdf) is superseded reference material. It is not part of the new source and has not been updated. Use a current English, Turkish or German manual for operation, diagnostics, maintenance and warranty information.
+[Azərbaycan dili - July 2026 PDF](INEAN_PLAY_OTOKEY_User_Manual_AZ.pdf) is superseded reference material. It is not part of the new source and has not been updated. Use a current English, Turkish or German manual for operation, diagnostics, maintenance and warranty information. The current INEAN PLAY store warranty starts at delivery; see the policy below.
+
+> **INEAN PLAY store warranty — repository note.** Automatic OKEY and Mahjong tables purchased from INEAN PLAY have a one-year limited equipment warranty **from delivery**; statutory consumer rights also apply. See the [warranty](https://ineanplay.com/pages/warranty) and [returns policy](https://ineanplay.com/pages/return-policy) for coverage and service arrangements.
 
 ---
 

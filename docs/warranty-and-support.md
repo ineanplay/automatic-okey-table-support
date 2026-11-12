@@ -1,27 +1,16 @@
 # Warranty and Product Support
 
-Based on the [current user manual](../manuals/text/manual-en.md), updated from the supplied EN / TR / DE manual on 2026-11-12. Confirm the installed model and product rating label before use.
+Automatic OKEY and Mahjong tables purchased from INEAN PLAY have a limited equipment warranty of **one year from delivery**; statutory consumer rights also apply. See the [warranty](https://ineanplay.com/pages/warranty) and [returns policy](https://ineanplay.com/pages/return-policy) for coverage and service arrangements.
 
-## WARRANTY AND SERVICE TERMS
+## Find the right instructions
 
-Warranty duration and service coverage are defined by the sales contract, invoice or warranty document supplied with the product. Mandatory rights under local law remain unaffected.
+Use instructions matching your model and control panel. Send a nameplate photo to INEAN PLAY for help choosing the guide.
 
-- Keep proof of purchase, the warranty document and the product serial number.
-- Defects caused by manufacturing or material faults are handled according to the applicable warranty document.
-- Service outside the warranty may include labour, travel and replacement-part charges.
-- Tiles, outer trim and playing-surface fabric are wear items unless the applicable warranty states otherwise.
+## Request support
 
-### Typical exclusions
+Send your model, order reference, delivery date, error message and a photo of the problem. We will match the next steps to your table and help arrange parts or service.
 
-- Warranty period expired or proof of coverage unavailable.
-- Serial number or warranty information altered, removed or mismatched.
-- Damage caused by incorrect transport, installation, use, cleaning, maintenance or storage.
-- Damage caused by unauthorised dismantling, repair or modification.
-- Damage caused by unsuitable power, temperature, humidity, liquid ingress or events outside reasonable control.
-
-## Requesting support
-
-Provide the model, serial number, proof of purchase, displayed fault code, flashing position indicator, and a clear photo or video of the issue.
+Contact us for service or return instructions and the address before arranging transport.
 
 ---
 

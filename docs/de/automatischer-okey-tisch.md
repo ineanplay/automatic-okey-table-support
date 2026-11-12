@@ -1,5 +1,7 @@
 # Automatischer Okey-Tisch - Anleitung und Support
 
+> **Modellzuordnung.** Verwenden Sie die Anleitung, die zu Ihrem Modell und Bedienfeld passt. INEAN PLAY hilft Ihnen bei der Auswahl anhand eines Typenschildfotos.
+
 Diese Seite bietet offizielle Informationen zum
 [automatischen Okey-Tisch](https://ineanplay.com/) von INEAN PLAY,
 OKEY- und 101-Modus, Bedienung, Fehlercodes, Reinigung und Wartung.
@@ -19,6 +21,8 @@ OKEY- und 101-Modus, Bedienung, Fehlercodes, Reinigung und Wartung.
 - [So funktioniert die automatische OKEY-Mechanik](../technology/de/working-principle.md)
 - [Konstruktionsmerkmale und tägliche Nutzung](../technology/de/design-and-use.md)
 - [F&E-Messwerte und ihr Geltungsbereich](../technology/de/rd-measurements.md)
+
+> **INEAN PLAY Gerätegarantie — Repository-Hinweis.** Bei INEAN PLAY gekaufte automatische OKEY- und Mahjong-Tische haben eine einjährige beschränkte Gerätegarantie **ab Lieferung**; gesetzliche Verbraucherrechte gelten zusätzlich. Umfang und Serviceabläufe finden Sie in der [Garantie](https://ineanplay.com/de/pages/warranty) und der [Rückgaberichtlinie](https://ineanplay.com/de/pages/return-policy).
 
 ---
 

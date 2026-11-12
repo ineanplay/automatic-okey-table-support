@@ -2,9 +2,9 @@
 
 Contact INEAN PLAY to ask about compatible magnetic tiles, player racks, replacement-part enquiries, warranty documentation, fault-code preparation, and multilingual manuals.
 
-Warranty coverage must be confirmed from the sales contract, product-specific warranty document, destination requirements, and mandatory consumer law. Users should keep the purchase record, model, serial number, and supplied warranty documents.
+> **INEAN PLAY store warranty — repository note.** Automatic OKEY and Mahjong tables purchased from INEAN PLAY have a one-year limited equipment warranty **from delivery**; statutory consumer rights also apply. See the [warranty](https://ineanplay.com/pages/warranty) and [returns policy](https://ineanplay.com/pages/return-policy) for coverage and service arrangements.
 
-For parts or warranty support, provide the exact model, serial number, affected component, destination country, and clear photos. Do not order a replacement part solely by appearance; compatibility should be confirmed by INEAN PLAY.
+For parts or warranty support, provide the exact model, serial number, affected component, destination country, and clear photos. INEAN PLAY will help match the replacement part to your table.
 
 ## Official contact
 

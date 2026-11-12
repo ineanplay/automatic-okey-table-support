@@ -54,8 +54,9 @@ for operation, diagnostics, maintenance and warranty information.
 
 ## Product Notes
 
-Model-specific labels, the product nameplate, the sales contract, and mandatory
-local consumer law take precedence over general documentation.
+> **Model applicability.** Use instructions matching your model and control panel. Contact INEAN PLAY with a nameplate photo for help choosing the guide.
+
+> **INEAN PLAY store warranty — repository note.** Automatic OKEY and Mahjong tables purchased from INEAN PLAY have a one-year limited equipment warranty **from delivery**; statutory consumer rights also apply. See the [warranty](https://ineanplay.com/pages/warranty) and [returns policy](https://ineanplay.com/pages/return-policy) for coverage and service arrangements.
 
 ---
 

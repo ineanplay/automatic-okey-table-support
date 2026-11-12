@@ -20,5 +20,12 @@
   },
   "pdf_policy": "Language PDFs reproduce source pages without reflow; original printed page numbers are retained.",
   "text_policy": "Source wording transcribed into Markdown; illustrations extracted from source. Repository support links are separate from manual content.",
-  "az_status": "Legacy July 2026 translation; not present in the supplied source and not updated."
+  "az_status": "Legacy July 2026 translation; not present in the supplied source and not updated.",
+  "repository_clarifications": {
+    "date": "2026-11-12",
+    "scope": "Brief model-matching and store-warranty notes supplement the EN/TR/DE source transcription. Supplied PDFs retain their original bytes.",
+    "equipment_warranty": "INEAN PLAY automatic tables: one year from delivery; statutory consumer rights also apply. Terms: https://ineanplay.com/pages/warranty",
+    "model_guidance": "Use instructions matching the model and control panel; contact INEAN PLAY with a nameplate photo for help.",
+    "az_status": "Existing superseded notices retained. The online warranty paragraph is corrected to delivery; the PDF download index links the current policy."
+  }
 }

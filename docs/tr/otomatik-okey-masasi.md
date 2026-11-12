@@ -1,5 +1,7 @@
 # Otomatik Okey Masası - Kullanım ve Destek
 
+> **Model kapsamı.** Modelinize ve kontrol panelinize uygun talimatları kullanın. Kılavuz seçimi için ürün etiketi fotoğrafıyla INEAN PLAY’e ulaşın.
+
 Bu sayfa INEAN PLAY
 [otomatik okey masası](https://ineanplay.com/), OKEY ve 101 modu,
 kontrol paneli,
@@ -20,6 +22,8 @@ arıza kodları, temizlik ve bakım için resmi destek bilgilerini içerir.
 - [Otomatik OKEY mekanizmasının çalışma prensibi](../technology/tr/working-principle.md)
 - [Tasarım özellikleri ve günlük kullanım](../technology/tr/design-and-use.md)
 - [Ar-Ge ölçümleri ve kapsamları](../technology/tr/rd-measurements.md)
+
+> **INEAN PLAY mağaza garantisi — depo notu.** INEAN PLAY’den alınan otomatik OKEY ve Mahjong masaları **teslim tarihinden itibaren** bir yıllık sınırlı ekipman garantisine sahiptir; yasal tüketici hakları da geçerlidir. Kapsam ve servis düzenlemeleri için [garanti](https://ineanplay.com/tr/pages/warranty) ve [iade politikasına](https://ineanplay.com/tr/pages/return-policy) bakın.
 
 ---
 

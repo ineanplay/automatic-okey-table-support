@@ -1,5 +1,7 @@
 # INEAN PLAY OTOKEY - Avtomatik Okey Masası - İstifadəçi Təlimatı
 
+> **Modelin uyğunluğu.** Modelinizə və idarəetmə panelinizə uyğun təlimatdan istifadə edin. Təlimat seçimi üçün məhsul etiketinin fotosu ilə INEAN PLAY-ə müraciət edin.
+
 > **Əvvəlki nəşr (iyul 2026).** Bu mətn 2026-11-12 tarixində təqdim edilmiş yeni mənbəyə uyğun yenilənməyib. İstifadə, diaqnostika, texniki qulluq və zəmanət məlumatları üçün cari [Türkçe](manual-tr.md), [English](manual-en.md) və ya [Deutsch](manual-de.md) təlimatından istifadə edin.
 >
 > **Superseded edition (July 2026).** The supplied replacement manual contains English, Turkish and German only. This Azerbaijani text has not been updated and must not be used as the current operating or warranty reference.
@@ -141,7 +143,7 @@ Daşları təmiz, düz səthə düzün. İstehsalçı tərəfindən təsdiqlənm
 
 ## 9. Məhdud zəmanət
 
-Bu təlimat satış tarixindən bir illik məhdud zəmanəti təsvir edir. Satış müqaviləsi, regional zəmanət qaydası və məcburi istehlakçı qanunu üstündür.
+> **INEAN PLAY zəmanəti — redaksiya düzəlişi.** INEAN PLAY-dən alınan avtomatik OKEY və Mahjong masalarına bir illik məhdud avadanlıq zəmanəti **təhvil verilmə tarixindən** tətbiq olunur; qanuni istehlakçı hüquqları da qüvvədədir. Əhatə və xidmət qaydaları üçün [zəmanət](https://ineanplay.com/pages/warranty) və [qaytarma siyasətinə](https://ineanplay.com/pages/return-policy) baxın.
 
 1. Qəbzi, seriya nömrəsini və məhsulla verilən zəmanət sənədini saxlayın.
 2. Qüvvədə olan zəmanət dövründə təsdiqlənmiş istehsal qüsurları regional qaydaya əsasən satıcı və ya səlahiyyətli servis vasitəsilə həll olunur.
